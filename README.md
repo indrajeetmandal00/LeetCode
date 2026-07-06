@@ -94,5 +94,10 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
+| [2069-walking-robot-simulation-ii](https://github.com/indrajeetmandal00/LeetCode/tree/master/2069-walking-robot-simulation-ii) |
 | [3612-process-string-with-special-operations-i](https://github.com/indrajeetmandal00/LeetCode/tree/master/3612-process-string-with-special-operations-i) |
+## Design
+|  |
+| ------- |
+| [2069-walking-robot-simulation-ii](https://github.com/indrajeetmandal00/LeetCode/tree/master/2069-walking-robot-simulation-ii) |
 <!---LeetCode Topics End-->
