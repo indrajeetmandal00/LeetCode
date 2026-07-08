@@ -40,6 +40,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2812-find-the-safest-path-in-a-grid](https://github.com/indrajeetmandal00/LeetCode/tree/master/2812-find-the-safest-path-in-a-grid) |
 | [3020-find-the-maximum-number-of-elements-in-subset](https://github.com/indrajeetmandal00/LeetCode/tree/master/3020-find-the-maximum-number-of-elements-in-subset) |
 | [3418-maximum-amount-of-money-robot-can-earn](https://github.com/indrajeetmandal00/LeetCode/tree/master/3418-maximum-amount-of-money-robot-can-earn) |
+| [3546-equal-sum-grid-partition-i](https://github.com/indrajeetmandal00/LeetCode/tree/master/3546-equal-sum-grid-partition-i) |
 | [3620-network-recovery-pathways](https://github.com/indrajeetmandal00/LeetCode/tree/master/3620-network-recovery-pathways) |
 | [3653-xor-after-range-multiplication-queries-i](https://github.com/indrajeetmandal00/LeetCode/tree/master/3653-xor-after-range-multiplication-queries-i) |
 | [3655-xor-after-range-multiplication-queries-ii](https://github.com/indrajeetmandal00/LeetCode/tree/master/3655-xor-after-range-multiplication-queries-ii) |
@@ -52,6 +53,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [1534-count-good-triplets](https://github.com/indrajeetmandal00/LeetCode/tree/master/1534-count-good-triplets) |
 | [3020-find-the-maximum-number-of-elements-in-subset](https://github.com/indrajeetmandal00/LeetCode/tree/master/3020-find-the-maximum-number-of-elements-in-subset) |
+| [3546-equal-sum-grid-partition-i](https://github.com/indrajeetmandal00/LeetCode/tree/master/3546-equal-sum-grid-partition-i) |
 ## Binary Search
 |  |
 | ------- |
@@ -76,6 +78,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/indrajeetmandal00/LeetCode/tree/master/2812-find-the-safest-path-in-a-grid) |
 | [3418-maximum-amount-of-money-robot-can-earn](https://github.com/indrajeetmandal00/LeetCode/tree/master/3418-maximum-amount-of-money-robot-can-earn) |
+| [3546-equal-sum-grid-partition-i](https://github.com/indrajeetmandal00/LeetCode/tree/master/3546-equal-sum-grid-partition-i) |
 ## Greedy
 |  |
 | ------- |
@@ -136,6 +139,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Prefix Sum
 |  |
 | ------- |
+| [3546-equal-sum-grid-partition-i](https://github.com/indrajeetmandal00/LeetCode/tree/master/3546-equal-sum-grid-partition-i) |
 | [3653-xor-after-range-multiplication-queries-i](https://github.com/indrajeetmandal00/LeetCode/tree/master/3653-xor-after-range-multiplication-queries-i) |
 | [3655-xor-after-range-multiplication-queries-ii](https://github.com/indrajeetmandal00/LeetCode/tree/master/3655-xor-after-range-multiplication-queries-ii) |
 | [3721-longest-balanced-subarray-ii](https://github.com/indrajeetmandal00/LeetCode/tree/master/3721-longest-balanced-subarray-ii) |
