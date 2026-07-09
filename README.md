@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1002-find-common-characters](https://github.com/indrajeetmandal00/LeetCode/tree/master/1002-find-common-characters) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/indrajeetmandal00/LeetCode/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [3020-find-the-maximum-number-of-elements-in-subset](https://github.com/indrajeetmandal00/LeetCode/tree/master/3020-find-the-maximum-number-of-elements-in-subset) |
+| [3532-path-existence-queries-in-a-graph-i](https://github.com/indrajeetmandal00/LeetCode/tree/master/3532-path-existence-queries-in-a-graph-i) |
 | [3721-longest-balanced-subarray-ii](https://github.com/indrajeetmandal00/LeetCode/tree/master/3721-longest-balanced-subarray-ii) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/indrajeetmandal00/LeetCode/tree/master/3737-count-subarrays-with-majority-element-i) |
 | [3741-minimum-distance-between-three-equal-elements-ii](https://github.com/indrajeetmandal00/LeetCode/tree/master/3741-minimum-distance-between-three-equal-elements-ii) |
@@ -40,6 +41,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2812-find-the-safest-path-in-a-grid](https://github.com/indrajeetmandal00/LeetCode/tree/master/2812-find-the-safest-path-in-a-grid) |
 | [3020-find-the-maximum-number-of-elements-in-subset](https://github.com/indrajeetmandal00/LeetCode/tree/master/3020-find-the-maximum-number-of-elements-in-subset) |
 | [3418-maximum-amount-of-money-robot-can-earn](https://github.com/indrajeetmandal00/LeetCode/tree/master/3418-maximum-amount-of-money-robot-can-earn) |
+| [3532-path-existence-queries-in-a-graph-i](https://github.com/indrajeetmandal00/LeetCode/tree/master/3532-path-existence-queries-in-a-graph-i) |
 | [3546-equal-sum-grid-partition-i](https://github.com/indrajeetmandal00/LeetCode/tree/master/3546-equal-sum-grid-partition-i) |
 | [3620-network-recovery-pathways](https://github.com/indrajeetmandal00/LeetCode/tree/master/3620-network-recovery-pathways) |
 | [3653-xor-after-range-multiplication-queries-i](https://github.com/indrajeetmandal00/LeetCode/tree/master/3653-xor-after-range-multiplication-queries-i) |
@@ -59,6 +61,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [1855-maximum-distance-between-a-pair-of-values](https://github.com/indrajeetmandal00/LeetCode/tree/master/1855-maximum-distance-between-a-pair-of-values) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/indrajeetmandal00/LeetCode/tree/master/2812-find-the-safest-path-in-a-grid) |
+| [3532-path-existence-queries-in-a-graph-i](https://github.com/indrajeetmandal00/LeetCode/tree/master/3532-path-existence-queries-in-a-graph-i) |
 | [3620-network-recovery-pathways](https://github.com/indrajeetmandal00/LeetCode/tree/master/3620-network-recovery-pathways) |
 ## Breadth-First Search
 |  |
@@ -70,6 +73,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/indrajeetmandal00/LeetCode/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/indrajeetmandal00/LeetCode/tree/master/2812-find-the-safest-path-in-a-grid) |
+| [3532-path-existence-queries-in-a-graph-i](https://github.com/indrajeetmandal00/LeetCode/tree/master/3532-path-existence-queries-in-a-graph-i) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
@@ -103,6 +107,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/indrajeetmandal00/LeetCode/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
+| [3532-path-existence-queries-in-a-graph-i](https://github.com/indrajeetmandal00/LeetCode/tree/master/3532-path-existence-queries-in-a-graph-i) |
 | [3620-network-recovery-pathways](https://github.com/indrajeetmandal00/LeetCode/tree/master/3620-network-recovery-pathways) |
 ## Topological Sort
 |  |
