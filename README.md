@@ -144,6 +144,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1344-angle-between-hands-of-a-clock](https://github.com/indrajeetmandal00/LeetCode/tree/master/1344-angle-between-hands-of-a-clock) |
+| [3558-number-of-ways-to-assign-edge-weights-i](https://github.com/indrajeetmandal00/LeetCode/tree/master/3558-number-of-ways-to-assign-edge-weights-i) |
 | [3754-concatenate-non-zero-digits-and-multiply-by-sum-i](https://github.com/indrajeetmandal00/LeetCode/tree/master/3754-concatenate-non-zero-digits-and-multiply-by-sum-i) |
 | [3756-concatenate-non-zero-digits-and-multiply-by-sum-ii](https://github.com/indrajeetmandal00/LeetCode/tree/master/3756-concatenate-non-zero-digits-and-multiply-by-sum-ii) |
 ## Divide and Conquer
@@ -187,8 +188,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/indrajeetmandal00/LeetCode/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
+| [3558-number-of-ways-to-assign-edge-weights-i](https://github.com/indrajeetmandal00/LeetCode/tree/master/3558-number-of-ways-to-assign-edge-weights-i) |
 ## Minimum Spanning Tree
 |  |
 | ------- |
 | [3600-maximize-spanning-tree-stability-with-upgrades](https://github.com/indrajeetmandal00/LeetCode/tree/master/3600-maximize-spanning-tree-stability-with-upgrades) |
+## Tree
+|  |
+| ------- |
+| [3558-number-of-ways-to-assign-edge-weights-i](https://github.com/indrajeetmandal00/LeetCode/tree/master/3558-number-of-ways-to-assign-edge-weights-i) |
 <!---LeetCode Topics End-->
