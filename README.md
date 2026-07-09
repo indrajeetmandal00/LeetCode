@@ -46,6 +46,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3620-network-recovery-pathways](https://github.com/indrajeetmandal00/LeetCode/tree/master/3620-network-recovery-pathways) |
 | [3653-xor-after-range-multiplication-queries-i](https://github.com/indrajeetmandal00/LeetCode/tree/master/3653-xor-after-range-multiplication-queries-i) |
 | [3655-xor-after-range-multiplication-queries-ii](https://github.com/indrajeetmandal00/LeetCode/tree/master/3655-xor-after-range-multiplication-queries-ii) |
+| [3661-maximum-walls-destroyed-by-robots](https://github.com/indrajeetmandal00/LeetCode/tree/master/3661-maximum-walls-destroyed-by-robots) |
 | [3689-maximum-total-subarray-value-i](https://github.com/indrajeetmandal00/LeetCode/tree/master/3689-maximum-total-subarray-value-i) |
 | [3721-longest-balanced-subarray-ii](https://github.com/indrajeetmandal00/LeetCode/tree/master/3721-longest-balanced-subarray-ii) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/indrajeetmandal00/LeetCode/tree/master/3737-count-subarrays-with-majority-element-i) |
@@ -64,6 +65,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/indrajeetmandal00/LeetCode/tree/master/3532-path-existence-queries-in-a-graph-i) |
 | [3600-maximize-spanning-tree-stability-with-upgrades](https://github.com/indrajeetmandal00/LeetCode/tree/master/3600-maximize-spanning-tree-stability-with-upgrades) |
 | [3620-network-recovery-pathways](https://github.com/indrajeetmandal00/LeetCode/tree/master/3620-network-recovery-pathways) |
+| [3661-maximum-walls-destroyed-by-robots](https://github.com/indrajeetmandal00/LeetCode/tree/master/3661-maximum-walls-destroyed-by-robots) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -99,6 +101,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1288-remove-covered-intervals](https://github.com/indrajeetmandal00/LeetCode/tree/master/1288-remove-covered-intervals) |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/indrajeetmandal00/LeetCode/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
 | [2751-robot-collisions](https://github.com/indrajeetmandal00/LeetCode/tree/master/2751-robot-collisions) |
+| [3661-maximum-walls-destroyed-by-robots](https://github.com/indrajeetmandal00/LeetCode/tree/master/3661-maximum-walls-destroyed-by-robots) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -106,6 +109,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1888-minimum-number-of-flips-to-make-the-binary-string-alternating](https://github.com/indrajeetmandal00/LeetCode/tree/master/1888-minimum-number-of-flips-to-make-the-binary-string-alternating) |
 | [3418-maximum-amount-of-money-robot-can-earn](https://github.com/indrajeetmandal00/LeetCode/tree/master/3418-maximum-amount-of-money-robot-can-earn) |
 | [3620-network-recovery-pathways](https://github.com/indrajeetmandal00/LeetCode/tree/master/3620-network-recovery-pathways) |
+| [3661-maximum-walls-destroyed-by-robots](https://github.com/indrajeetmandal00/LeetCode/tree/master/3661-maximum-walls-destroyed-by-robots) |
 ## Graph Theory
 |  |
 | ------- |
