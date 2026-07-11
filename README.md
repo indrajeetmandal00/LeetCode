@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0067-add-binary](https://github.com/indrajeetmandal00/LeetCode/tree/master/0067-add-binary) |
 | [0696-count-binary-substrings](https://github.com/indrajeetmandal00/LeetCode/tree/master/0696-count-binary-substrings) |
 | [1002-find-common-characters](https://github.com/indrajeetmandal00/LeetCode/tree/master/1002-find-common-characters) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/indrajeetmandal00/LeetCode/tree/master/1358-number-of-substrings-containing-all-three-characters) |
@@ -168,6 +169,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
+| [0067-add-binary](https://github.com/indrajeetmandal00/LeetCode/tree/master/0067-add-binary) |
 | [2069-walking-robot-simulation-ii](https://github.com/indrajeetmandal00/LeetCode/tree/master/2069-walking-robot-simulation-ii) |
 | [2751-robot-collisions](https://github.com/indrajeetmandal00/LeetCode/tree/master/2751-robot-collisions) |
 | [3612-process-string-with-special-operations-i](https://github.com/indrajeetmandal00/LeetCode/tree/master/3612-process-string-with-special-operations-i) |
@@ -180,6 +182,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0067-add-binary](https://github.com/indrajeetmandal00/LeetCode/tree/master/0067-add-binary) |
 | [0788-rotated-digits](https://github.com/indrajeetmandal00/LeetCode/tree/master/0788-rotated-digits) |
 | [1344-angle-between-hands-of-a-clock](https://github.com/indrajeetmandal00/LeetCode/tree/master/1344-angle-between-hands-of-a-clock) |
 | [1622-fancy-sequence](https://github.com/indrajeetmandal00/LeetCode/tree/master/1622-fancy-sequence) |
@@ -252,6 +255,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bit Manipulation
 |  |
 | ------- |
+| [0067-add-binary](https://github.com/indrajeetmandal00/LeetCode/tree/master/0067-add-binary) |
 | [0401-binary-watch](https://github.com/indrajeetmandal00/LeetCode/tree/master/0401-binary-watch) |
 | [1009-complement-of-base-10-integer](https://github.com/indrajeetmandal00/LeetCode/tree/master/1009-complement-of-base-10-integer) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/indrajeetmandal00/LeetCode/tree/master/3534-path-existence-queries-in-a-graph-ii) |
