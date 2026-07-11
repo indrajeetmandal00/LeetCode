@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0696-count-binary-substrings](https://github.com/indrajeetmandal00/LeetCode/tree/master/0696-count-binary-substrings) |
 | [1002-find-common-characters](https://github.com/indrajeetmandal00/LeetCode/tree/master/1002-find-common-characters) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/indrajeetmandal00/LeetCode/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1415-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n](https://github.com/indrajeetmandal00/LeetCode/tree/master/1415-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n) |
@@ -160,6 +161,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0696-count-binary-substrings](https://github.com/indrajeetmandal00/LeetCode/tree/master/0696-count-binary-substrings) |
 | [1855-maximum-distance-between-a-pair-of-values](https://github.com/indrajeetmandal00/LeetCode/tree/master/1855-maximum-distance-between-a-pair-of-values) |
 | [2540-minimum-common-value](https://github.com/indrajeetmandal00/LeetCode/tree/master/2540-minimum-common-value) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/indrajeetmandal00/LeetCode/tree/master/3534-path-existence-queries-in-a-graph-ii) |
