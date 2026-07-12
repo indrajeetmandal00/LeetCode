@@ -297,4 +297,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/indrajeetmandal00/LeetCode/tree/master/0230-kth-smallest-element-in-a-bst) |
+## Database
+|  |
+| ------- |
+| [1587-bank-account-summary-ii](https://github.com/indrajeetmandal00/LeetCode/tree/master/1587-bank-account-summary-ii) |
 <!---LeetCode Topics End-->
