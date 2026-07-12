@@ -66,6 +66,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3546-equal-sum-grid-partition-i](https://github.com/indrajeetmandal00/LeetCode/tree/master/3546-equal-sum-grid-partition-i) |
 | [3620-network-recovery-pathways](https://github.com/indrajeetmandal00/LeetCode/tree/master/3620-network-recovery-pathways) |
 | [3629-minimum-jumps-to-reach-end-via-prime-teleportation](https://github.com/indrajeetmandal00/LeetCode/tree/master/3629-minimum-jumps-to-reach-end-via-prime-teleportation) |
+| [3635-earliest-finish-time-for-land-and-water-rides-ii](https://github.com/indrajeetmandal00/LeetCode/tree/master/3635-earliest-finish-time-for-land-and-water-rides-ii) |
 | [3653-xor-after-range-multiplication-queries-i](https://github.com/indrajeetmandal00/LeetCode/tree/master/3653-xor-after-range-multiplication-queries-i) |
 | [3655-xor-after-range-multiplication-queries-ii](https://github.com/indrajeetmandal00/LeetCode/tree/master/3655-xor-after-range-multiplication-queries-ii) |
 | [3661-maximum-walls-destroyed-by-robots](https://github.com/indrajeetmandal00/LeetCode/tree/master/3661-maximum-walls-destroyed-by-robots) |
@@ -89,6 +90,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/indrajeetmandal00/LeetCode/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 | [3600-maximize-spanning-tree-stability-with-upgrades](https://github.com/indrajeetmandal00/LeetCode/tree/master/3600-maximize-spanning-tree-stability-with-upgrades) |
 | [3620-network-recovery-pathways](https://github.com/indrajeetmandal00/LeetCode/tree/master/3620-network-recovery-pathways) |
+| [3635-earliest-finish-time-for-land-and-water-rides-ii](https://github.com/indrajeetmandal00/LeetCode/tree/master/3635-earliest-finish-time-for-land-and-water-rides-ii) |
 | [3661-maximum-walls-destroyed-by-robots](https://github.com/indrajeetmandal00/LeetCode/tree/master/3661-maximum-walls-destroyed-by-robots) |
 ## Breadth-First Search
 |  |
@@ -128,6 +130,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/indrajeetmandal00/LeetCode/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/indrajeetmandal00/LeetCode/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 | [3600-maximize-spanning-tree-stability-with-upgrades](https://github.com/indrajeetmandal00/LeetCode/tree/master/3600-maximize-spanning-tree-stability-with-upgrades) |
+| [3635-earliest-finish-time-for-land-and-water-rides-ii](https://github.com/indrajeetmandal00/LeetCode/tree/master/3635-earliest-finish-time-for-land-and-water-rides-ii) |
 | [3689-maximum-total-subarray-value-i](https://github.com/indrajeetmandal00/LeetCode/tree/master/3689-maximum-total-subarray-value-i) |
 ## Sorting
 |  |
@@ -138,6 +141,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1878-get-biggest-three-rhombus-sums-in-a-grid](https://github.com/indrajeetmandal00/LeetCode/tree/master/1878-get-biggest-three-rhombus-sums-in-a-grid) |
 | [2751-robot-collisions](https://github.com/indrajeetmandal00/LeetCode/tree/master/2751-robot-collisions) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/indrajeetmandal00/LeetCode/tree/master/3534-path-existence-queries-in-a-graph-ii) |
+| [3635-earliest-finish-time-for-land-and-water-rides-ii](https://github.com/indrajeetmandal00/LeetCode/tree/master/3635-earliest-finish-time-for-land-and-water-rides-ii) |
 | [3661-maximum-walls-destroyed-by-robots](https://github.com/indrajeetmandal00/LeetCode/tree/master/3661-maximum-walls-destroyed-by-robots) |
 ## Dynamic Programming
 |  |
@@ -177,6 +181,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1855-maximum-distance-between-a-pair-of-values](https://github.com/indrajeetmandal00/LeetCode/tree/master/1855-maximum-distance-between-a-pair-of-values) |
 | [2540-minimum-common-value](https://github.com/indrajeetmandal00/LeetCode/tree/master/2540-minimum-common-value) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/indrajeetmandal00/LeetCode/tree/master/3534-path-existence-queries-in-a-graph-ii) |
+| [3635-earliest-finish-time-for-land-and-water-rides-ii](https://github.com/indrajeetmandal00/LeetCode/tree/master/3635-earliest-finish-time-for-land-and-water-rides-ii) |
 ## Simulation
 |  |
 | ------- |
