@@ -265,6 +265,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/indrajeetmandal00/LeetCode/tree/master/0230-kth-smallest-element-in-a-bst) |
+| [0430-flatten-a-multilevel-doubly-linked-list](https://github.com/indrajeetmandal00/LeetCode/tree/master/0430-flatten-a-multilevel-doubly-linked-list) |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/indrajeetmandal00/LeetCode/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
 | [2685-count-the-number-of-complete-components](https://github.com/indrajeetmandal00/LeetCode/tree/master/2685-count-the-number-of-complete-components) |
 | [3558-number-of-ways-to-assign-edge-weights-i](https://github.com/indrajeetmandal00/LeetCode/tree/master/3558-number-of-ways-to-assign-edge-weights-i) |
@@ -310,4 +311,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3229-minimum-operations-to-make-array-equal-to-target](https://github.com/indrajeetmandal00/LeetCode/tree/master/3229-minimum-operations-to-make-array-equal-to-target) |
+## Linked List
+|  |
+| ------- |
+| [0430-flatten-a-multilevel-doubly-linked-list](https://github.com/indrajeetmandal00/LeetCode/tree/master/0430-flatten-a-multilevel-doubly-linked-list) |
+## Doubly-Linked List
+|  |
+| ------- |
+| [0430-flatten-a-multilevel-doubly-linked-list](https://github.com/indrajeetmandal00/LeetCode/tree/master/0430-flatten-a-multilevel-doubly-linked-list) |
 <!---LeetCode Topics End-->
