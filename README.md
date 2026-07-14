@@ -56,6 +56,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1331-rank-transform-of-an-array](https://github.com/indrajeetmandal00/LeetCode/tree/master/1331-rank-transform-of-an-array) |
 | [1534-count-good-triplets](https://github.com/indrajeetmandal00/LeetCode/tree/master/1534-count-good-triplets) |
 | [1582-special-positions-in-a-binary-matrix](https://github.com/indrajeetmandal00/LeetCode/tree/master/1582-special-positions-in-a-binary-matrix) |
+| [1752-check-if-array-is-sorted-and-rotated](https://github.com/indrajeetmandal00/LeetCode/tree/master/1752-check-if-array-is-sorted-and-rotated) |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/indrajeetmandal00/LeetCode/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
 | [1855-maximum-distance-between-a-pair-of-values](https://github.com/indrajeetmandal00/LeetCode/tree/master/1855-maximum-distance-between-a-pair-of-values) |
 | [1878-get-biggest-three-rhombus-sums-in-a-grid](https://github.com/indrajeetmandal00/LeetCode/tree/master/1878-get-biggest-three-rhombus-sums-in-a-grid) |
