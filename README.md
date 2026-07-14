@@ -203,6 +203,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0696-count-binary-substrings](https://github.com/indrajeetmandal00/LeetCode/tree/master/0696-count-binary-substrings) |
 | [1855-maximum-distance-between-a-pair-of-values](https://github.com/indrajeetmandal00/LeetCode/tree/master/1855-maximum-distance-between-a-pair-of-values) |
+| [2095-delete-the-middle-node-of-a-linked-list](https://github.com/indrajeetmandal00/LeetCode/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
 | [2540-minimum-common-value](https://github.com/indrajeetmandal00/LeetCode/tree/master/2540-minimum-common-value) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/indrajeetmandal00/LeetCode/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 | [3635-earliest-finish-time-for-land-and-water-rides-ii](https://github.com/indrajeetmandal00/LeetCode/tree/master/3635-earliest-finish-time-for-land-and-water-rides-ii) |
@@ -341,6 +342,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0430-flatten-a-multilevel-doubly-linked-list](https://github.com/indrajeetmandal00/LeetCode/tree/master/0430-flatten-a-multilevel-doubly-linked-list) |
+| [2095-delete-the-middle-node-of-a-linked-list](https://github.com/indrajeetmandal00/LeetCode/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
 ## Doubly-Linked List
 |  |
 | ------- |
