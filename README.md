@@ -28,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0067-add-binary](https://github.com/indrajeetmandal00/LeetCode/tree/master/0067-add-binary) |
 | [0696-count-binary-substrings](https://github.com/indrajeetmandal00/LeetCode/tree/master/0696-count-binary-substrings) |
 | [0761-special-binary-string](https://github.com/indrajeetmandal00/LeetCode/tree/master/0761-special-binary-string) |
+| [0796-rotate-string](https://github.com/indrajeetmandal00/LeetCode/tree/master/0796-rotate-string) |
 | [0903-valid-permutations-for-di-sequence](https://github.com/indrajeetmandal00/LeetCode/tree/master/0903-valid-permutations-for-di-sequence) |
 | [1002-find-common-characters](https://github.com/indrajeetmandal00/LeetCode/tree/master/1002-find-common-characters) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/indrajeetmandal00/LeetCode/tree/master/1358-number-of-substrings-containing-all-three-characters) |
@@ -391,4 +392,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3161-block-placement-queries](https://github.com/indrajeetmandal00/LeetCode/tree/master/3161-block-placement-queries) |
+## String Matching
+|  |
+| ------- |
+| [0796-rotate-string](https://github.com/indrajeetmandal00/LeetCode/tree/master/0796-rotate-string) |
 <!---LeetCode Topics End-->
