@@ -53,6 +53,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0033-search-in-rotated-sorted-array](https://github.com/indrajeetmandal00/LeetCode/tree/master/0033-search-in-rotated-sorted-array) |
 | [0396-rotate-function](https://github.com/indrajeetmandal00/LeetCode/tree/master/0396-rotate-function) |
+| [0674-longest-continuous-increasing-subsequence](https://github.com/indrajeetmandal00/LeetCode/tree/master/0674-longest-continuous-increasing-subsequence) |
 | [1002-find-common-characters](https://github.com/indrajeetmandal00/LeetCode/tree/master/1002-find-common-characters) |
 | [1288-remove-covered-intervals](https://github.com/indrajeetmandal00/LeetCode/tree/master/1288-remove-covered-intervals) |
 | [1331-rank-transform-of-an-array](https://github.com/indrajeetmandal00/LeetCode/tree/master/1331-rank-transform-of-an-array) |
