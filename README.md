@@ -43,6 +43,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3043-find-the-length-of-the-longest-common-prefix](https://github.com/indrajeetmandal00/LeetCode/tree/master/3043-find-the-length-of-the-longest-common-prefix) |
 | [3120-count-the-number-of-special-characters-i](https://github.com/indrajeetmandal00/LeetCode/tree/master/3120-count-the-number-of-special-characters-i) |
 | [3612-process-string-with-special-operations-i](https://github.com/indrajeetmandal00/LeetCode/tree/master/3612-process-string-with-special-operations-i) |
+| [3666-minimum-operations-to-equalize-binary-string](https://github.com/indrajeetmandal00/LeetCode/tree/master/3666-minimum-operations-to-equalize-binary-string) |
 | [3714-longest-balanced-substring-ii](https://github.com/indrajeetmandal00/LeetCode/tree/master/3714-longest-balanced-substring-ii) |
 | [3756-concatenate-non-zero-digits-and-multiply-by-sum-ii](https://github.com/indrajeetmandal00/LeetCode/tree/master/3756-concatenate-non-zero-digits-and-multiply-by-sum-ii) |
 | [3864-minimum-cost-to-partition-a-binary-string](https://github.com/indrajeetmandal00/LeetCode/tree/master/3864-minimum-cost-to-partition-a-binary-string) |
@@ -141,6 +142,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2812-find-the-safest-path-in-a-grid](https://github.com/indrajeetmandal00/LeetCode/tree/master/2812-find-the-safest-path-in-a-grid) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/indrajeetmandal00/LeetCode/tree/master/3286-find-a-safe-walk-through-a-grid) |
 | [3629-minimum-jumps-to-reach-end-via-prime-teleportation](https://github.com/indrajeetmandal00/LeetCode/tree/master/3629-minimum-jumps-to-reach-end-via-prime-teleportation) |
+| [3666-minimum-operations-to-equalize-binary-string](https://github.com/indrajeetmandal00/LeetCode/tree/master/3666-minimum-operations-to-equalize-binary-string) |
 ## Union-Find
 |  |
 | ------- |
@@ -150,6 +152,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2812-find-the-safest-path-in-a-grid](https://github.com/indrajeetmandal00/LeetCode/tree/master/2812-find-the-safest-path-in-a-grid) |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/indrajeetmandal00/LeetCode/tree/master/3532-path-existence-queries-in-a-graph-i) |
 | [3600-maximize-spanning-tree-stability-with-upgrades](https://github.com/indrajeetmandal00/LeetCode/tree/master/3600-maximize-spanning-tree-stability-with-upgrades) |
+| [3666-minimum-operations-to-equalize-binary-string](https://github.com/indrajeetmandal00/LeetCode/tree/master/3666-minimum-operations-to-equalize-binary-string) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
@@ -283,6 +286,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3558-number-of-ways-to-assign-edge-weights-i](https://github.com/indrajeetmandal00/LeetCode/tree/master/3558-number-of-ways-to-assign-edge-weights-i) |
 | [3629-minimum-jumps-to-reach-end-via-prime-teleportation](https://github.com/indrajeetmandal00/LeetCode/tree/master/3629-minimum-jumps-to-reach-end-via-prime-teleportation) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/indrajeetmandal00/LeetCode/tree/master/3658-gcd-of-odd-and-even-sums) |
+| [3666-minimum-operations-to-equalize-binary-string](https://github.com/indrajeetmandal00/LeetCode/tree/master/3666-minimum-operations-to-equalize-binary-string) |
 | [3747-count-distinct-integers-after-removing-zeros](https://github.com/indrajeetmandal00/LeetCode/tree/master/3747-count-distinct-integers-after-removing-zeros) |
 | [3751-total-waviness-of-numbers-in-range-i](https://github.com/indrajeetmandal00/LeetCode/tree/master/3751-total-waviness-of-numbers-in-range-i) |
 | [3754-concatenate-non-zero-digits-and-multiply-by-sum-i](https://github.com/indrajeetmandal00/LeetCode/tree/master/3754-concatenate-non-zero-digits-and-multiply-by-sum-i) |
@@ -417,6 +421,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3161-block-placement-queries](https://github.com/indrajeetmandal00/LeetCode/tree/master/3161-block-placement-queries) |
+| [3666-minimum-operations-to-equalize-binary-string](https://github.com/indrajeetmandal00/LeetCode/tree/master/3666-minimum-operations-to-equalize-binary-string) |
 ## String Matching
 |  |
 | ------- |
