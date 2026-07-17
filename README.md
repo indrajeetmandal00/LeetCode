@@ -110,6 +110,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3655-xor-after-range-multiplication-queries-ii](https://github.com/indrajeetmandal00/LeetCode/tree/master/3655-xor-after-range-multiplication-queries-ii) |
 | [3661-maximum-walls-destroyed-by-robots](https://github.com/indrajeetmandal00/LeetCode/tree/master/3661-maximum-walls-destroyed-by-robots) |
 | [3689-maximum-total-subarray-value-i](https://github.com/indrajeetmandal00/LeetCode/tree/master/3689-maximum-total-subarray-value-i) |
+| [3691-maximum-total-subarray-value-ii](https://github.com/indrajeetmandal00/LeetCode/tree/master/3691-maximum-total-subarray-value-ii) |
 | [3721-longest-balanced-subarray-ii](https://github.com/indrajeetmandal00/LeetCode/tree/master/3721-longest-balanced-subarray-ii) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/indrajeetmandal00/LeetCode/tree/master/3737-count-subarrays-with-majority-element-i) |
 | [3741-minimum-distance-between-three-equal-elements-ii](https://github.com/indrajeetmandal00/LeetCode/tree/master/3741-minimum-distance-between-three-equal-elements-ii) |
@@ -168,6 +169,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2812-find-the-safest-path-in-a-grid](https://github.com/indrajeetmandal00/LeetCode/tree/master/2812-find-the-safest-path-in-a-grid) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/indrajeetmandal00/LeetCode/tree/master/3286-find-a-safe-walk-through-a-grid) |
 | [3620-network-recovery-pathways](https://github.com/indrajeetmandal00/LeetCode/tree/master/3620-network-recovery-pathways) |
+| [3691-maximum-total-subarray-value-ii](https://github.com/indrajeetmandal00/LeetCode/tree/master/3691-maximum-total-subarray-value-ii) |
 ## Matrix
 |  |
 | ------- |
@@ -193,6 +195,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3600-maximize-spanning-tree-stability-with-upgrades](https://github.com/indrajeetmandal00/LeetCode/tree/master/3600-maximize-spanning-tree-stability-with-upgrades) |
 | [3635-earliest-finish-time-for-land-and-water-rides-ii](https://github.com/indrajeetmandal00/LeetCode/tree/master/3635-earliest-finish-time-for-land-and-water-rides-ii) |
 | [3689-maximum-total-subarray-value-i](https://github.com/indrajeetmandal00/LeetCode/tree/master/3689-maximum-total-subarray-value-i) |
+| [3691-maximum-total-subarray-value-ii](https://github.com/indrajeetmandal00/LeetCode/tree/master/3691-maximum-total-subarray-value-ii) |
 ## Sorting
 |  |
 | ------- |
@@ -339,6 +342,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [1622-fancy-sequence](https://github.com/indrajeetmandal00/LeetCode/tree/master/1622-fancy-sequence) |
 | [3161-block-placement-queries](https://github.com/indrajeetmandal00/LeetCode/tree/master/3161-block-placement-queries) |
+| [3691-maximum-total-subarray-value-ii](https://github.com/indrajeetmandal00/LeetCode/tree/master/3691-maximum-total-subarray-value-ii) |
 | [3721-longest-balanced-subarray-ii](https://github.com/indrajeetmandal00/LeetCode/tree/master/3721-longest-balanced-subarray-ii) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/indrajeetmandal00/LeetCode/tree/master/3737-count-subarrays-with-majority-element-i) |
 ## Merge Sort
