@@ -373,6 +373,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/indrajeetmandal00/LeetCode/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0430-flatten-a-multilevel-doubly-linked-list](https://github.com/indrajeetmandal00/LeetCode/tree/master/0430-flatten-a-multilevel-doubly-linked-list) |
+| [1038-binary-search-tree-to-greater-sum-tree](https://github.com/indrajeetmandal00/LeetCode/tree/master/1038-binary-search-tree-to-greater-sum-tree) |
 | [1391-check-if-there-is-a-valid-path-in-a-grid](https://github.com/indrajeetmandal00/LeetCode/tree/master/1391-check-if-there-is-a-valid-path-in-a-grid) |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/indrajeetmandal00/LeetCode/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
 | [2685-count-the-number-of-complete-components](https://github.com/indrajeetmandal00/LeetCode/tree/master/2685-count-the-number-of-complete-components) |
@@ -385,6 +386,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/indrajeetmandal00/LeetCode/tree/master/0230-kth-smallest-element-in-a-bst) |
+| [1038-binary-search-tree-to-greater-sum-tree](https://github.com/indrajeetmandal00/LeetCode/tree/master/1038-binary-search-tree-to-greater-sum-tree) |
 | [3558-number-of-ways-to-assign-edge-weights-i](https://github.com/indrajeetmandal00/LeetCode/tree/master/3558-number-of-ways-to-assign-edge-weights-i) |
 ## Number Theory
 |  |
@@ -414,10 +416,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/indrajeetmandal00/LeetCode/tree/master/0230-kth-smallest-element-in-a-bst) |
+| [1038-binary-search-tree-to-greater-sum-tree](https://github.com/indrajeetmandal00/LeetCode/tree/master/1038-binary-search-tree-to-greater-sum-tree) |
 ## Binary Tree
 |  |
 | ------- |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/indrajeetmandal00/LeetCode/tree/master/0230-kth-smallest-element-in-a-bst) |
+| [1038-binary-search-tree-to-greater-sum-tree](https://github.com/indrajeetmandal00/LeetCode/tree/master/1038-binary-search-tree-to-greater-sum-tree) |
 ## Database
 |  |
 | ------- |
