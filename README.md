@@ -53,6 +53,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3666-minimum-operations-to-equalize-binary-string](https://github.com/indrajeetmandal00/LeetCode/tree/master/3666-minimum-operations-to-equalize-binary-string) |
 | [3714-longest-balanced-substring-ii](https://github.com/indrajeetmandal00/LeetCode/tree/master/3714-longest-balanced-substring-ii) |
 | [3756-concatenate-non-zero-digits-and-multiply-by-sum-ii](https://github.com/indrajeetmandal00/LeetCode/tree/master/3756-concatenate-non-zero-digits-and-multiply-by-sum-ii) |
+| [3838-weighted-word-mapping](https://github.com/indrajeetmandal00/LeetCode/tree/master/3838-weighted-word-mapping) |
 | [3864-minimum-cost-to-partition-a-binary-string](https://github.com/indrajeetmandal00/LeetCode/tree/master/3864-minimum-cost-to-partition-a-binary-string) |
 ## Sliding Window
 |  |
@@ -132,6 +133,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3741-minimum-distance-between-three-equal-elements-ii](https://github.com/indrajeetmandal00/LeetCode/tree/master/3741-minimum-distance-between-three-equal-elements-ii) |
 | [3742-maximum-path-score-in-a-grid](https://github.com/indrajeetmandal00/LeetCode/tree/master/3742-maximum-path-score-in-a-grid) |
 | [3761-minimum-absolute-distance-between-mirror-pairs](https://github.com/indrajeetmandal00/LeetCode/tree/master/3761-minimum-absolute-distance-between-mirror-pairs) |
+| [3838-weighted-word-mapping](https://github.com/indrajeetmandal00/LeetCode/tree/master/3838-weighted-word-mapping) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/indrajeetmandal00/LeetCode/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Enumeration
 |  |
@@ -317,6 +319,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2751-robot-collisions](https://github.com/indrajeetmandal00/LeetCode/tree/master/2751-robot-collisions) |
 | [3612-process-string-with-special-operations-i](https://github.com/indrajeetmandal00/LeetCode/tree/master/3612-process-string-with-special-operations-i) |
 | [3653-xor-after-range-multiplication-queries-i](https://github.com/indrajeetmandal00/LeetCode/tree/master/3653-xor-after-range-multiplication-queries-i) |
+| [3838-weighted-word-mapping](https://github.com/indrajeetmandal00/LeetCode/tree/master/3838-weighted-word-mapping) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/indrajeetmandal00/LeetCode/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Design
 |  |
