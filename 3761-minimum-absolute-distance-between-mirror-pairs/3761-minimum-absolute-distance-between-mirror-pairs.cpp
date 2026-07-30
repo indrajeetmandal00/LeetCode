@@ -1,28 +1,24 @@
-#include <memory_resource>
-pmr::unsynchronized_pool_resource pool;
 class Solution {
 public:
-    static int rev(int x){
-        int ans=0;
-        for(; x>0; x/=10){
-            const int d=x%10;
-            ans=10*ans+d;
+    int reverse(int x) {
+        int rev = 0;
+        while (x > 0) {
+            rev = rev * 10 + x % 10;
+            x /= 10;
         }
-        return ans;
+        return rev;
     }
-    static int minMirrorPairDistance(vector<int>& nums) {
-        const int n=nums.size();
-        pmr::unordered_map<int, int> mp(&pool);
-        mp.reserve(n);
-        int dist=INT_MAX;
-        for(int i=0; i<n; i++){
-            const int x=nums[i], R=rev(x);
-        //    cout<<i<<"->"<< x<<", Rev="<<R<<endl;
-            auto it=mp.find(x);
-            if (it!=mp.end())
-                dist=min(dist, i-it->second);
-            mp[R]=i;
+
+    int minMirrorPairDistance(vector<int>& a) {
+        unordered_map<int, int> mpp;
+        int n = a.size(), ans = 1e6;
+
+        for (int i = 0; i < n; i++) {
+            if (mpp.count(a[i])) {
+                ans = min(ans, i - mpp[a[i]]);
+            }
+            mpp[reverse(a[i])] = i;
         }
-        return dist==INT_MAX?-1:dist;
+        return ans == 1e6 ? -1 : ans;
     }
 };
