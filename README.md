@@ -526,6 +526,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1587-bank-account-summary-ii](https://github.com/indrajeetmandal00/LeetCode/tree/master/1587-bank-account-summary-ii) |
+| [1907-count-salary-categories](https://github.com/indrajeetmandal00/LeetCode/tree/master/1907-count-salary-categories) |
 | [3611-find-overbooked-employees](https://github.com/indrajeetmandal00/LeetCode/tree/master/3611-find-overbooked-employees) |
 ## Monotonic Stack
 |  |
