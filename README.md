@@ -83,6 +83,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1260-shift-2d-grid](https://github.com/indrajeetmandal00/LeetCode/tree/master/1260-shift-2d-grid) |
 | [1288-remove-covered-intervals](https://github.com/indrajeetmandal00/LeetCode/tree/master/1288-remove-covered-intervals) |
 | [1331-rank-transform-of-an-array](https://github.com/indrajeetmandal00/LeetCode/tree/master/1331-rank-transform-of-an-array) |
+| [1340-jump-game-v](https://github.com/indrajeetmandal00/LeetCode/tree/master/1340-jump-game-v) |
 | [1391-check-if-there-is-a-valid-path-in-a-grid](https://github.com/indrajeetmandal00/LeetCode/tree/master/1391-check-if-there-is-a-valid-path-in-a-grid) |
 | [1534-count-good-triplets](https://github.com/indrajeetmandal00/LeetCode/tree/master/1534-count-good-triplets) |
 | [1536-minimum-swaps-to-arrange-a-binary-grid](https://github.com/indrajeetmandal00/LeetCode/tree/master/1536-minimum-swaps-to-arrange-a-binary-grid) |
@@ -256,6 +257,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0761-special-binary-string](https://github.com/indrajeetmandal00/LeetCode/tree/master/0761-special-binary-string) |
 | [1288-remove-covered-intervals](https://github.com/indrajeetmandal00/LeetCode/tree/master/1288-remove-covered-intervals) |
 | [1331-rank-transform-of-an-array](https://github.com/indrajeetmandal00/LeetCode/tree/master/1331-rank-transform-of-an-array) |
+| [1340-jump-game-v](https://github.com/indrajeetmandal00/LeetCode/tree/master/1340-jump-game-v) |
 | [1727-largest-submatrix-with-rearrangements](https://github.com/indrajeetmandal00/LeetCode/tree/master/1727-largest-submatrix-with-rearrangements) |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/indrajeetmandal00/LeetCode/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
 | [1878-get-biggest-three-rhombus-sums-in-a-grid](https://github.com/indrajeetmandal00/LeetCode/tree/master/1878-get-biggest-three-rhombus-sums-in-a-grid) |
@@ -283,6 +285,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0788-rotated-digits](https://github.com/indrajeetmandal00/LeetCode/tree/master/0788-rotated-digits) |
 | [0799-champagne-tower](https://github.com/indrajeetmandal00/LeetCode/tree/master/0799-champagne-tower) |
 | [0903-valid-permutations-for-di-sequence](https://github.com/indrajeetmandal00/LeetCode/tree/master/0903-valid-permutations-for-di-sequence) |
+| [1340-jump-game-v](https://github.com/indrajeetmandal00/LeetCode/tree/master/1340-jump-game-v) |
 | [1594-maximum-non-negative-product-in-a-matrix](https://github.com/indrajeetmandal00/LeetCode/tree/master/1594-maximum-non-negative-product-in-a-matrix) |
 | [1888-minimum-number-of-flips-to-make-the-binary-string-alternating](https://github.com/indrajeetmandal00/LeetCode/tree/master/1888-minimum-number-of-flips-to-make-the-binary-string-alternating) |
 | [2060-check-if-an-original-string-exists-given-two-encoded-strings](https://github.com/indrajeetmandal00/LeetCode/tree/master/2060-check-if-an-original-string-exists-given-two-encoded-strings) |
