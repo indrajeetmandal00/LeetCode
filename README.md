@@ -58,6 +58,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3043-find-the-length-of-the-longest-common-prefix](https://github.com/indrajeetmandal00/LeetCode/tree/master/3043-find-the-length-of-the-longest-common-prefix) |
 | [3120-count-the-number-of-special-characters-i](https://github.com/indrajeetmandal00/LeetCode/tree/master/3120-count-the-number-of-special-characters-i) |
 | [3121-count-the-number-of-special-characters-ii](https://github.com/indrajeetmandal00/LeetCode/tree/master/3121-count-the-number-of-special-characters-ii) |
+| [3501-maximize-active-section-with-trade-ii](https://github.com/indrajeetmandal00/LeetCode/tree/master/3501-maximize-active-section-with-trade-ii) |
 | [3518-smallest-palindromic-rearrangement-ii](https://github.com/indrajeetmandal00/LeetCode/tree/master/3518-smallest-palindromic-rearrangement-ii) |
 | [3612-process-string-with-special-operations-i](https://github.com/indrajeetmandal00/LeetCode/tree/master/3612-process-string-with-special-operations-i) |
 | [3666-minimum-operations-to-equalize-binary-string](https://github.com/indrajeetmandal00/LeetCode/tree/master/3666-minimum-operations-to-equalize-binary-string) |
@@ -133,6 +134,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3418-maximum-amount-of-money-robot-can-earn](https://github.com/indrajeetmandal00/LeetCode/tree/master/3418-maximum-amount-of-money-robot-can-earn) |
 | [3464-maximize-the-distance-between-points-on-a-square](https://github.com/indrajeetmandal00/LeetCode/tree/master/3464-maximize-the-distance-between-points-on-a-square) |
 | [3488-closest-equal-element-queries](https://github.com/indrajeetmandal00/LeetCode/tree/master/3488-closest-equal-element-queries) |
+| [3501-maximize-active-section-with-trade-ii](https://github.com/indrajeetmandal00/LeetCode/tree/master/3501-maximize-active-section-with-trade-ii) |
 | [3513-number-of-unique-xor-triplets-i](https://github.com/indrajeetmandal00/LeetCode/tree/master/3513-number-of-unique-xor-triplets-i) |
 | [3514-number-of-unique-xor-triplets-ii](https://github.com/indrajeetmandal00/LeetCode/tree/master/3514-number-of-unique-xor-triplets-ii) |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/indrajeetmandal00/LeetCode/tree/master/3532-path-existence-queries-in-a-graph-i) |
@@ -180,6 +182,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3312-sorted-gcd-pair-queries](https://github.com/indrajeetmandal00/LeetCode/tree/master/3312-sorted-gcd-pair-queries) |
 | [3464-maximize-the-distance-between-points-on-a-square](https://github.com/indrajeetmandal00/LeetCode/tree/master/3464-maximize-the-distance-between-points-on-a-square) |
 | [3488-closest-equal-element-queries](https://github.com/indrajeetmandal00/LeetCode/tree/master/3488-closest-equal-element-queries) |
+| [3501-maximize-active-section-with-trade-ii](https://github.com/indrajeetmandal00/LeetCode/tree/master/3501-maximize-active-section-with-trade-ii) |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/indrajeetmandal00/LeetCode/tree/master/3532-path-existence-queries-in-a-graph-i) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/indrajeetmandal00/LeetCode/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 | [3600-maximize-spanning-tree-stability-with-upgrades](https://github.com/indrajeetmandal00/LeetCode/tree/master/3600-maximize-spanning-tree-stability-with-upgrades) |
@@ -441,6 +444,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [1622-fancy-sequence](https://github.com/indrajeetmandal00/LeetCode/tree/master/1622-fancy-sequence) |
 | [3161-block-placement-queries](https://github.com/indrajeetmandal00/LeetCode/tree/master/3161-block-placement-queries) |
+| [3501-maximize-active-section-with-trade-ii](https://github.com/indrajeetmandal00/LeetCode/tree/master/3501-maximize-active-section-with-trade-ii) |
 | [3691-maximum-total-subarray-value-ii](https://github.com/indrajeetmandal00/LeetCode/tree/master/3691-maximum-total-subarray-value-ii) |
 | [3721-longest-balanced-subarray-ii](https://github.com/indrajeetmandal00/LeetCode/tree/master/3721-longest-balanced-subarray-ii) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/indrajeetmandal00/LeetCode/tree/master/3737-count-subarrays-with-majority-element-i) |
