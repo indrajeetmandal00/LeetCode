@@ -1,4 +1,6 @@
 class Solution {
 public:
-    int gcdOfOddEvenSums(int n) { return n; }
+    int gcdOfOddEvenSums(int n) {
+        return n;
+    }
 };
