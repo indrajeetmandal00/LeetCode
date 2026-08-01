@@ -78,6 +78,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/indrajeetmandal00/LeetCode/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/indrajeetmandal00/LeetCode/tree/master/0154-find-minimum-in-rotated-sorted-array-ii) |
 | [0396-rotate-function](https://github.com/indrajeetmandal00/LeetCode/tree/master/0396-rotate-function) |
+| [0486-predict-the-winner](https://github.com/indrajeetmandal00/LeetCode/tree/master/0486-predict-the-winner) |
 | [0628-maximum-product-of-three-numbers](https://github.com/indrajeetmandal00/LeetCode/tree/master/0628-maximum-product-of-three-numbers) |
 | [0674-longest-continuous-increasing-subsequence](https://github.com/indrajeetmandal00/LeetCode/tree/master/0674-longest-continuous-increasing-subsequence) |
 | [0874-walking-robot-simulation](https://github.com/indrajeetmandal00/LeetCode/tree/master/0874-walking-robot-simulation) |
@@ -287,6 +288,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0396-rotate-function](https://github.com/indrajeetmandal00/LeetCode/tree/master/0396-rotate-function) |
+| [0486-predict-the-winner](https://github.com/indrajeetmandal00/LeetCode/tree/master/0486-predict-the-winner) |
 | [0788-rotated-digits](https://github.com/indrajeetmandal00/LeetCode/tree/master/0788-rotated-digits) |
 | [0799-champagne-tower](https://github.com/indrajeetmandal00/LeetCode/tree/master/0799-champagne-tower) |
 | [0903-valid-permutations-for-di-sequence](https://github.com/indrajeetmandal00/LeetCode/tree/master/0903-valid-permutations-for-di-sequence) |
@@ -369,6 +371,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0067-add-binary](https://github.com/indrajeetmandal00/LeetCode/tree/master/0067-add-binary) |
 | [0396-rotate-function](https://github.com/indrajeetmandal00/LeetCode/tree/master/0396-rotate-function) |
+| [0486-predict-the-winner](https://github.com/indrajeetmandal00/LeetCode/tree/master/0486-predict-the-winner) |
 | [0628-maximum-product-of-three-numbers](https://github.com/indrajeetmandal00/LeetCode/tree/master/0628-maximum-product-of-three-numbers) |
 | [0762-prime-number-of-set-bits-in-binary-representation](https://github.com/indrajeetmandal00/LeetCode/tree/master/0762-prime-number-of-set-bits-in-binary-representation) |
 | [0788-rotated-digits](https://github.com/indrajeetmandal00/LeetCode/tree/master/0788-rotated-digits) |
@@ -576,5 +579,10 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Recursion
 |  |
 | ------- |
+| [0486-predict-the-winner](https://github.com/indrajeetmandal00/LeetCode/tree/master/0486-predict-the-winner) |
 | [2094-finding-3-digit-even-numbers](https://github.com/indrajeetmandal00/LeetCode/tree/master/2094-finding-3-digit-even-numbers) |
+## Game Theory
+|  |
+| ------- |
+| [0486-predict-the-winner](https://github.com/indrajeetmandal00/LeetCode/tree/master/0486-predict-the-winner) |
 <!---LeetCode Topics End-->
