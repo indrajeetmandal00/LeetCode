@@ -1,63 +1,49 @@
 class Solution {
+private:
+    static constexpr int MOD = 1000000007;
+    static constexpr int MAX = 100001;
+    inline static int pow[MAX];
+
+    inline static int init = []() {
+        pow[0] = 1;
+        for (int i = 1; i < MAX; i++)
+            pow[i] = pow[i - 1] * 10LL % MOD;
+        return 0;
+    }();
+
 public:
     vector<int> sumAndMultiply(string s, vector<vector<int>>& queries) {
-        const int MOD = 1e9 + 7;
-        int n = s.size();
-
-        vector<long long> pow10(n + 1, 1);
-        for (int i = 1; i <= n; i++)
-            pow10[i] = (pow10[i - 1] * 10) % MOD;
-
-        // idx[i] = number of non-zero digits before index i
-        vector<int> idx(n + 1, 0);
-
-        // val[i] = number formed by first i non-zero digits
-        vector<long long> val(n + 1, 0);
-
-        // total[i] = sum of first i non-zero digits
-        vector<long long> total(n + 1, 0);
-
-        int cnt = 0;
+        int n = s.length();
+        
+        vector<int> A(n + 1, 0);
+        vector<int> B(n + 1, 0);
+        vector<int> len(n + 1, 0);
 
         for (int i = 0; i < n; i++) {
-            int digit = s[i] - '0';
-
-            if (digit != 0) {
-                cnt++;
-
-                val[cnt] = (val[cnt - 1] * 10 + digit) % MOD;
-                total[cnt] = total[cnt - 1] + digit;
+            int d = s[i] - '0';            
+            A[i + 1] = A[i] + d;
+            
+            if (d) {
+                B[i + 1] = (B[i] * 10LL + d) % MOD;
+                len[i + 1] = len[i] + 1;
+            } else {
+                B[i + 1] = B[i];
+                len[i + 1] = len[i];
             }
-
-            idx[i + 1] = cnt;
         }
 
-        vector<int> ans;
+        vector<int> res;
+        res.reserve(queries.size());
 
-        for (auto &q : queries) {
+        for (auto& q : queries) {
+            int l = q[0], r = q[1] + 1;
 
-            int l = q[0];
-            int r = q[1];
+            long long sub = B[l] * 1LL * pow[len[r] - len[l]] % MOD;
+            long long x = (B[r] - sub + MOD) % MOD;
 
-            int left = idx[l];
-            int right = idx[r + 1];
-            //no non-zero digit in the range
-            if (left == right) { 
-                ans.push_back(0);
-                continue;
-            }
-
-            int len = right - left;
-
-            long long number =(val[right] - val[left] * pow10[len]) % MOD;
-
-            if (number < 0)
-                number += MOD;
-
-            long long sum = total[right] - total[left];
-            ans.push_back((number * sum) % MOD);
+            res.push_back(x * (A[r] - A[l]) % MOD);
         }
 
-        return ans;
+        return res;
     }
 };
