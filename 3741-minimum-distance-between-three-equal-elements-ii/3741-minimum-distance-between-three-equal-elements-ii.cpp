@@ -1,19 +1,27 @@
-const int N=1e5+1;
-int pos[N][2]={[0 ... N-1][0 ... 1]=-1};
 class Solution {
 public:
-    static int minimumDistance(vector<int>& nums) {
-        const int n=nums.size();
-        int ans=INT_MAX, M=0;
-        for(int k=0; k<n; k++){
-            const int x=nums[k];
-            M=max(M, x);
-            if (pos[x][1]!=-1){
-                ans=min(ans, (k-pos[x][1])<<1);
+    int minimumDistance(vector<int>& nums) {
+        int n = nums.size();
+        vector<int> next(n, -1);
+        unordered_map<int, int> occur;
+        int ans = n + 1;
+
+        for(int i = n-1; i >= 0; i--){
+            if(occur.count(nums[i])){
+                next[i] = occur[nums[i]];
             }
-            pos[x][1]=exchange(pos[x][0], k);
+            occur[nums[i]] = i;
         }
-        memset(pos, -1, sizeof(int)*2*(M+1));
-        return ans==INT_MAX?-1:ans;
+        for(int i = 0; i < n; i++){
+            int secondPos = next[i];
+            if(secondPos != -1){
+                int thirdPos = next[secondPos];
+                if(thirdPos != -1){
+                    ans = min(ans, thirdPos - i);
+                }
+            }
+        }
+
+        return ans == n + 1 ? -1 : ans * 2;
     }
 };
