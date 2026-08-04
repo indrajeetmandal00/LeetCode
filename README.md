@@ -93,6 +93,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1002-find-common-characters](https://github.com/indrajeetmandal00/LeetCode/tree/master/1002-find-common-characters) |
 | [1260-shift-2d-grid](https://github.com/indrajeetmandal00/LeetCode/tree/master/1260-shift-2d-grid) |
 | [1288-remove-covered-intervals](https://github.com/indrajeetmandal00/LeetCode/tree/master/1288-remove-covered-intervals) |
+| [1301-number-of-paths-with-max-score](https://github.com/indrajeetmandal00/LeetCode/tree/master/1301-number-of-paths-with-max-score) |
 | [1306-jump-game-iii](https://github.com/indrajeetmandal00/LeetCode/tree/master/1306-jump-game-iii) |
 | [1331-rank-transform-of-an-array](https://github.com/indrajeetmandal00/LeetCode/tree/master/1331-rank-transform-of-an-array) |
 | [1340-jump-game-v](https://github.com/indrajeetmandal00/LeetCode/tree/master/1340-jump-game-v) |
@@ -244,6 +245,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0059-spiral-matrix-ii](https://github.com/indrajeetmandal00/LeetCode/tree/master/0059-spiral-matrix-ii) |
 | [1260-shift-2d-grid](https://github.com/indrajeetmandal00/LeetCode/tree/master/1260-shift-2d-grid) |
+| [1301-number-of-paths-with-max-score](https://github.com/indrajeetmandal00/LeetCode/tree/master/1301-number-of-paths-with-max-score) |
 | [1391-check-if-there-is-a-valid-path-in-a-grid](https://github.com/indrajeetmandal00/LeetCode/tree/master/1391-check-if-there-is-a-valid-path-in-a-grid) |
 | [1536-minimum-swaps-to-arrange-a-binary-grid](https://github.com/indrajeetmandal00/LeetCode/tree/master/1536-minimum-swaps-to-arrange-a-binary-grid) |
 | [1559-detect-cycles-in-2d-grid](https://github.com/indrajeetmandal00/LeetCode/tree/master/1559-detect-cycles-in-2d-grid) |
@@ -324,6 +326,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0799-champagne-tower](https://github.com/indrajeetmandal00/LeetCode/tree/master/0799-champagne-tower) |
 | [0877-stone-game](https://github.com/indrajeetmandal00/LeetCode/tree/master/0877-stone-game) |
 | [0903-valid-permutations-for-di-sequence](https://github.com/indrajeetmandal00/LeetCode/tree/master/0903-valid-permutations-for-di-sequence) |
+| [1301-number-of-paths-with-max-score](https://github.com/indrajeetmandal00/LeetCode/tree/master/1301-number-of-paths-with-max-score) |
 | [1340-jump-game-v](https://github.com/indrajeetmandal00/LeetCode/tree/master/1340-jump-game-v) |
 | [1406-stone-game-iii](https://github.com/indrajeetmandal00/LeetCode/tree/master/1406-stone-game-iii) |
 | [1594-maximum-non-negative-product-in-a-matrix](https://github.com/indrajeetmandal00/LeetCode/tree/master/1594-maximum-non-negative-product-in-a-matrix) |
