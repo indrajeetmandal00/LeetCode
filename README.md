@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0874-walking-robot-simulation](https://github.com/indrajeetmandal00/LeetCode/tree/master/0874-walking-robot-simulation) |
 | [1002-find-common-characters](https://github.com/indrajeetmandal00/LeetCode/tree/master/1002-find-common-characters) |
 | [1331-rank-transform-of-an-array](https://github.com/indrajeetmandal00/LeetCode/tree/master/1331-rank-transform-of-an-array) |
+| [1345-jump-game-iv](https://github.com/indrajeetmandal00/LeetCode/tree/master/1345-jump-game-iv) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/indrajeetmandal00/LeetCode/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1461-check-if-a-string-contains-all-binary-codes-of-size-k](https://github.com/indrajeetmandal00/LeetCode/tree/master/1461-check-if-a-string-contains-all-binary-codes-of-size-k) |
 | [1980-find-unique-binary-string](https://github.com/indrajeetmandal00/LeetCode/tree/master/1980-find-unique-binary-string) |
@@ -95,6 +96,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1306-jump-game-iii](https://github.com/indrajeetmandal00/LeetCode/tree/master/1306-jump-game-iii) |
 | [1331-rank-transform-of-an-array](https://github.com/indrajeetmandal00/LeetCode/tree/master/1331-rank-transform-of-an-array) |
 | [1340-jump-game-v](https://github.com/indrajeetmandal00/LeetCode/tree/master/1340-jump-game-v) |
+| [1345-jump-game-iv](https://github.com/indrajeetmandal00/LeetCode/tree/master/1345-jump-game-iv) |
 | [1391-check-if-there-is-a-valid-path-in-a-grid](https://github.com/indrajeetmandal00/LeetCode/tree/master/1391-check-if-there-is-a-valid-path-in-a-grid) |
 | [1406-stone-game-iii](https://github.com/indrajeetmandal00/LeetCode/tree/master/1406-stone-game-iii) |
 | [1534-count-good-triplets](https://github.com/indrajeetmandal00/LeetCode/tree/master/1534-count-good-triplets) |
@@ -206,6 +208,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1306-jump-game-iii](https://github.com/indrajeetmandal00/LeetCode/tree/master/1306-jump-game-iii) |
+| [1345-jump-game-iv](https://github.com/indrajeetmandal00/LeetCode/tree/master/1345-jump-game-iv) |
 | [1391-check-if-there-is-a-valid-path-in-a-grid](https://github.com/indrajeetmandal00/LeetCode/tree/master/1391-check-if-there-is-a-valid-path-in-a-grid) |
 | [1559-detect-cycles-in-2d-grid](https://github.com/indrajeetmandal00/LeetCode/tree/master/1559-detect-cycles-in-2d-grid) |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/indrajeetmandal00/LeetCode/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
