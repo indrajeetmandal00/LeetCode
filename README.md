@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1345-jump-game-iv](https://github.com/indrajeetmandal00/LeetCode/tree/master/1345-jump-game-iv) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/indrajeetmandal00/LeetCode/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1461-check-if-a-string-contains-all-binary-codes-of-size-k](https://github.com/indrajeetmandal00/LeetCode/tree/master/1461-check-if-a-string-contains-all-binary-codes-of-size-k) |
+| [1674-minimum-moves-to-make-array-complementary](https://github.com/indrajeetmandal00/LeetCode/tree/master/1674-minimum-moves-to-make-array-complementary) |
 | [1980-find-unique-binary-string](https://github.com/indrajeetmandal00/LeetCode/tree/master/1980-find-unique-binary-string) |
 | [2094-finding-3-digit-even-numbers](https://github.com/indrajeetmandal00/LeetCode/tree/master/2094-finding-3-digit-even-numbers) |
 | [2196-create-binary-tree-from-descriptions](https://github.com/indrajeetmandal00/LeetCode/tree/master/2196-create-binary-tree-from-descriptions) |
@@ -117,6 +118,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1559-detect-cycles-in-2d-grid](https://github.com/indrajeetmandal00/LeetCode/tree/master/1559-detect-cycles-in-2d-grid) |
 | [1582-special-positions-in-a-binary-matrix](https://github.com/indrajeetmandal00/LeetCode/tree/master/1582-special-positions-in-a-binary-matrix) |
 | [1594-maximum-non-negative-product-in-a-matrix](https://github.com/indrajeetmandal00/LeetCode/tree/master/1594-maximum-non-negative-product-in-a-matrix) |
+| [1674-minimum-moves-to-make-array-complementary](https://github.com/indrajeetmandal00/LeetCode/tree/master/1674-minimum-moves-to-make-array-complementary) |
 | [1727-largest-submatrix-with-rearrangements](https://github.com/indrajeetmandal00/LeetCode/tree/master/1727-largest-submatrix-with-rearrangements) |
 | [1732-find-the-highest-altitude](https://github.com/indrajeetmandal00/LeetCode/tree/master/1732-find-the-highest-altitude) |
 | [1735-count-ways-to-make-array-with-product](https://github.com/indrajeetmandal00/LeetCode/tree/master/1735-count-ways-to-make-array-with-product) |
@@ -506,6 +508,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0903-valid-permutations-for-di-sequence](https://github.com/indrajeetmandal00/LeetCode/tree/master/0903-valid-permutations-for-di-sequence) |
 | [1140-stone-game-ii](https://github.com/indrajeetmandal00/LeetCode/tree/master/1140-stone-game-ii) |
+| [1674-minimum-moves-to-make-array-complementary](https://github.com/indrajeetmandal00/LeetCode/tree/master/1674-minimum-moves-to-make-array-complementary) |
 | [1732-find-the-highest-altitude](https://github.com/indrajeetmandal00/LeetCode/tree/master/1732-find-the-highest-altitude) |
 | [1878-get-biggest-three-rhombus-sums-in-a-grid](https://github.com/indrajeetmandal00/LeetCode/tree/master/1878-get-biggest-three-rhombus-sums-in-a-grid) |
 | [2574-left-and-right-sum-differences](https://github.com/indrajeetmandal00/LeetCode/tree/master/2574-left-and-right-sum-differences) |
