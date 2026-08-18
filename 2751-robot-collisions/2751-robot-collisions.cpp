@@ -1,50 +1,45 @@
 class Solution {
 public:
-    vector<int> survivedRobotsHealths(vector<int>& pos, vector<int>& h, string d) {
-
-        int n = pos.size();
-        vector<int> order(n);
+    vector<int> survivedRobotsHealths(vector<int>& positions, vector<int>& healths, string directions) {
+        int n = positions.size();
+        vector<int> order(n) ;
         iota(order.begin(), order.end(), 0);
+        sort(order.begin(), order.end(), [&](int a, int b){
+            return positions[a] < positions[b];
+        });
 
-        sort(order.begin(), order.end(),
-             [&](int a,int b){ return pos[a] < pos[b]; });
+        stack<int> st;
+        vector<bool> dead(n, false);
 
-        vector<bool> alive(n,true);
-        vector<int> st;
-
-        for(int idx:order){
-
-            if(d[idx]=='R') st.push_back(idx);
-
-            else{
-                while(!st.empty()){
-
-                    int top = st.back();
-
-                    if(h[top] < h[idx]){
-                        alive[top]=false;
-                        st.pop_back();
-                        h[idx]--;
-                    }
-                    else if(h[top] > h[idx]){
-                        alive[idx]=false;
-                        h[top]--;
+        for (int i : order) {
+            if (directions[i] == 'R') {
+                st.push(i) ;
+            } else {
+                while (!st.empty() && directions[st.top()] == 'R') {
+                    int top = st.top();
+                    if (healths[top] > healths[i]) {
+                        healths[top]-- ;
+                        dead[i] = true;
                         break;
-                    }
-                    else{
-                        alive[top]=false;
-                        alive[idx]=false;
-                        st.pop_back();
+                    } else if (healths[top] < healths[i]) {
+                        healths[i]--;
+                        dead[top] = true ;
+                        st.pop();
+                    } else {
+                        dead[i] = true;
+                        dead[top] = true ;
+                        st.pop();
                         break;
                     }
                 }
+                if (!dead[i]) st.push(i);
             }
         }
 
-        vector<int> res;
-        for(int i=0;i<n;i++)
-            if(alive[i]) res.push_back(h[i]);
+        vector<int> result;
+        for (int i = 0; i < n; i++)
+            if (!dead[i]) result.push_back(healths[i]) ;
 
-        return res;
+        return result;
     }
 };
