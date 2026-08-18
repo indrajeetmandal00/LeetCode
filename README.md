@@ -77,6 +77,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/indrajeetmandal00/LeetCode/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
 | [3348-smallest-divisible-digit-product-ii](https://github.com/indrajeetmandal00/LeetCode/tree/master/3348-smallest-divisible-digit-product-ii) |
 | [3474-lexicographically-smallest-generated-string](https://github.com/indrajeetmandal00/LeetCode/tree/master/3474-lexicographically-smallest-generated-string) |
+| [3499-maximize-active-section-with-trade-i](https://github.com/indrajeetmandal00/LeetCode/tree/master/3499-maximize-active-section-with-trade-i) |
 | [3501-maximize-active-section-with-trade-ii](https://github.com/indrajeetmandal00/LeetCode/tree/master/3501-maximize-active-section-with-trade-ii) |
 | [3518-smallest-palindromic-rearrangement-ii](https://github.com/indrajeetmandal00/LeetCode/tree/master/3518-smallest-palindromic-rearrangement-ii) |
 | [3612-process-string-with-special-operations-i](https://github.com/indrajeetmandal00/LeetCode/tree/master/3612-process-string-with-special-operations-i) |
@@ -213,6 +214,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2094-finding-3-digit-even-numbers](https://github.com/indrajeetmandal00/LeetCode/tree/master/2094-finding-3-digit-even-numbers) |
 | [3020-find-the-maximum-number-of-elements-in-subset](https://github.com/indrajeetmandal00/LeetCode/tree/master/3020-find-the-maximum-number-of-elements-in-subset) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/indrajeetmandal00/LeetCode/tree/master/3345-smallest-divisible-digit-product-i) |
+| [3499-maximize-active-section-with-trade-i](https://github.com/indrajeetmandal00/LeetCode/tree/master/3499-maximize-active-section-with-trade-i) |
 | [3514-number-of-unique-xor-triplets-ii](https://github.com/indrajeetmandal00/LeetCode/tree/master/3514-number-of-unique-xor-triplets-ii) |
 | [3546-equal-sum-grid-partition-i](https://github.com/indrajeetmandal00/LeetCode/tree/master/3546-equal-sum-grid-partition-i) |
 | [3751-total-waviness-of-numbers-in-range-i](https://github.com/indrajeetmandal00/LeetCode/tree/master/3751-total-waviness-of-numbers-in-range-i) |
