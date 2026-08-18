@@ -1,54 +1,84 @@
 class Robot {
+    int x; 
+    int y;
+    int width; 
+    int height; 
+    string dir; 
 public:
-    int w, h;
-    int x, y;
-    int dir; // 0 = East, 1 = North, 2 = West, 3 = South
-    int perimeter;
-    
-    vector<pair<int,int>> directions = {
-        {1, 0},   // East
-        {0, 1},   // North
-        {-1, 0},  // West
-        {0, -1}   // South
-    };
-    
-    vector<string> dirNames = {"East", "North", "West", "South"};
-
     Robot(int width, int height) {
-        w = width;
-        h = height;
-        x = 0;
-        y = 0;
-        dir = 0;
-        perimeter = 2 * (w + h - 2);
+        x = 0, y = 0, dir = "East";
+        this->width = width, this->height = height;
     }
     
     void step(int num) {
-        if (perimeter == 0) return;
+        num %= (2 * (width - 1) + 2 * (height - 1));
+        if (num == 0) {
+            num = (2 * (width - 1) + 2 * (height - 1));
+        }
 
-        num %= perimeter;
-        if (num == 0) num = perimeter;
-
-        while (num--) {
-            int nx = x + directions[dir].first;
-            int ny = y + directions[dir].second;
-            // check boundary
-            if (nx < 0 || nx >= w || ny < 0 || ny >= h) {
-                dir = (dir + 1) % 4; // turn CCW
-                nx = x + directions[dir].first;
-                ny = y + directions[dir].second;
+        while(num > 0) {
+            int nx = x, ny = y; 
+            
+            if(dir == "East") {
+                int maxX = min(x + num, width - 1); 
+                int rem = num - (maxX - x); 
+                num = rem; 
+                if(rem == 0) {
+                    x = maxX, y = ny; 
+                } else {
+                    x = maxX; 
+                    dir = "North"; 
+                }
             }
-
-            x = nx;
-            y = ny;
+            else if(dir == "West") {
+                int minX = max(x - num, 0); 
+                int rem = num - (x - minX); 
+                num = rem; 
+                if(rem == 0) {
+                    x = minX, y = ny; 
+                } else {
+                    x = minX; 
+                    dir = "South"; 
+                }
+            }
+            else if(dir == "North") {
+                int maxY = min(y + num, height - 1); 
+                int rem = num - (maxY - y); 
+                num = rem; 
+                if(rem == 0) {
+                    x = nx, y = maxY; 
+                } else {
+                    y = maxY; 
+                    dir = "West"; 
+                }
+            }
+            else if(dir == "South") {
+                int minY = max(y - num, 0); 
+                int rem = num - (y - minY); 
+                num = rem; 
+                if(rem == 0) {
+                    x = nx, y = minY; 
+                } else {
+                    y = minY; 
+                    dir = "East"; 
+                }
+            }
         }
     }
     
     vector<int> getPos() {
-        return {x, y};
+        return {x, y}; 
     }
     
     string getDir() {
-        return dirNames[dir];
+        return dir; 
     }
 };
+
+/**
+ * Your Robot object will be instantiated and called as such:
+ * Robot* obj = new Robot(width, height);
+ * obj->step(num);
+ * vector<int> param_2 = obj->getPos();
+ * string param_3 = obj->getDir();
+ */
