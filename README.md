@@ -48,6 +48,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0067-add-binary](https://github.com/indrajeetmandal00/LeetCode/tree/master/0067-add-binary) |
 | [0068-text-justification](https://github.com/indrajeetmandal00/LeetCode/tree/master/0068-text-justification) |
 | [0071-simplify-path](https://github.com/indrajeetmandal00/LeetCode/tree/master/0071-simplify-path) |
+| [0072-edit-distance](https://github.com/indrajeetmandal00/LeetCode/tree/master/0072-edit-distance) |
 | [0657-robot-return-to-origin](https://github.com/indrajeetmandal00/LeetCode/tree/master/0657-robot-return-to-origin) |
 | [0696-count-binary-substrings](https://github.com/indrajeetmandal00/LeetCode/tree/master/0696-count-binary-substrings) |
 | [0761-special-binary-string](https://github.com/indrajeetmandal00/LeetCode/tree/master/0761-special-binary-string) |
@@ -384,6 +385,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0070-climbing-stairs](https://github.com/indrajeetmandal00/LeetCode/tree/master/0070-climbing-stairs) |
+| [0072-edit-distance](https://github.com/indrajeetmandal00/LeetCode/tree/master/0072-edit-distance) |
 | [0343-integer-break](https://github.com/indrajeetmandal00/LeetCode/tree/master/0343-integer-break) |
 | [0396-rotate-function](https://github.com/indrajeetmandal00/LeetCode/tree/master/0396-rotate-function) |
 | [0486-predict-the-winner](https://github.com/indrajeetmandal00/LeetCode/tree/master/0486-predict-the-winner) |
