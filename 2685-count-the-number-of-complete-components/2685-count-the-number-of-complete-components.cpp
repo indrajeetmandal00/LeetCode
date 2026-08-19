@@ -1,72 +1,45 @@
-class DSU {
-public:
-    vector<int> parent, size;
-
-    DSU(int n) {
-        parent.resize(n + 1);
-        size.resize(n + 1, 1);
-
-        for (int i = 0; i <= n; i++)
-            parent[i] = i;
-    }
-
-    int find(int node) {
-        if (parent[node] == node)
-            return node;
-        return parent[node] = find(parent[node]);
-    }
-
-    void unite(int u, int v) {
-        u = find(u);
-        v = find(v);
-
-        if (u == v) return;
-
-        if (size[u] < size[v])
-            swap(u, v);
-
-        parent[v] = u;
-        size[u] += size[v];
-    }
-
-    int getSize(int u) {
-        return size[find(u)];
-    }
-};
-
 class Solution {
 public:
     int countCompleteComponents(int n, vector<vector<int>>& edges) {
-        DSU d(n);
-        vector<int> degree(n, 0);
+        vector<vector<int>> adj(n);
 
         for (auto &e : edges) {
-            d.unite(e[0], e[1]);
-            degree[e[0]]++;
-            degree[e[1]]++;
+            adj[e[0]].push_back(e[1]);
+            adj[e[1]].push_back(e[0]);
         }
 
-        unordered_map<int, vector<int>> mp;
+        vector<bool> vis(n, false);
+        int ans = 0;
 
-        for (int i = 0; i < n; i++)
-            mp[d.find(i)].push_back(i);
+        for (int i = 0; i < n; i++) {
+            if (vis[i]) continue;
 
-        int ans = mp.size();
+            queue<int> q;
+            q.push(i);
+            vis[i] = true;
 
-        for (auto &it : mp) {
-            int sz = d.getSize(it.first);
+            int nodes = 0;//number of nodes in the component
+            int edgeCount = 0; //total edges in the component
 
-            bool complete = true;
+            while (!q.empty()) {
+                int u = q.front();
+                q.pop();
 
-            for (int node : it.second) {
-                if (degree[node] != sz - 1) {
-                    complete = false;
-                    break;
+                nodes++;
+                edgeCount += adj[u].size();
+
+                for (int v : adj[u]) {
+                    if (!vis[v]) {
+                        vis[v] = true;
+                        q.push(v);
+                    }
                 }
             }
 
-            if (!complete)
-                ans--;
+            edgeCount /= 2;
+
+            if (edgeCount == nodes * (nodes - 1) / 2)
+                ans++;
         }
 
         return ans;
