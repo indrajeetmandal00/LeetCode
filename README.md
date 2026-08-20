@@ -198,6 +198,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2206-divide-array-into-equal-pairs](https://github.com/indrajeetmandal00/LeetCode/tree/master/2206-divide-array-into-equal-pairs) |
 | [2213-longest-substring-of-one-repeating-character](https://github.com/indrajeetmandal00/LeetCode/tree/master/2213-longest-substring-of-one-repeating-character) |
 | [2438-range-product-queries-of-powers](https://github.com/indrajeetmandal00/LeetCode/tree/master/2438-range-product-queries-of-powers) |
+| [2439-minimize-maximum-of-array](https://github.com/indrajeetmandal00/LeetCode/tree/master/2439-minimize-maximum-of-array) |
 | [2452-words-within-two-edits-of-dictionary](https://github.com/indrajeetmandal00/LeetCode/tree/master/2452-words-within-two-edits-of-dictionary) |
 | [2463-minimum-total-distance-traveled](https://github.com/indrajeetmandal00/LeetCode/tree/master/2463-minimum-total-distance-traveled) |
 | [2515-shortest-distance-to-target-string-in-a-circular-array](https://github.com/indrajeetmandal00/LeetCode/tree/master/2515-shortest-distance-to-target-string-in-a-circular-array) |
@@ -283,6 +284,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/indrajeetmandal00/LeetCode/tree/master/0154-find-minimum-in-rotated-sorted-array-ii) |
 | [0862-shortest-subarray-with-sum-at-least-k](https://github.com/indrajeetmandal00/LeetCode/tree/master/0862-shortest-subarray-with-sum-at-least-k) |
 | [1855-maximum-distance-between-a-pair-of-values](https://github.com/indrajeetmandal00/LeetCode/tree/master/1855-maximum-distance-between-a-pair-of-values) |
+| [2439-minimize-maximum-of-array](https://github.com/indrajeetmandal00/LeetCode/tree/master/2439-minimize-maximum-of-array) |
 | [2540-minimum-common-value](https://github.com/indrajeetmandal00/LeetCode/tree/master/2540-minimum-common-value) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/indrajeetmandal00/LeetCode/tree/master/2812-find-the-safest-path-in-a-grid) |
 | [3161-block-placement-queries](https://github.com/indrajeetmandal00/LeetCode/tree/master/3161-block-placement-queries) |
@@ -395,6 +397,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2078-two-furthest-houses-with-different-colors](https://github.com/indrajeetmandal00/LeetCode/tree/master/2078-two-furthest-houses-with-different-colors) |
 | [2126-destroying-asteroids](https://github.com/indrajeetmandal00/LeetCode/tree/master/2126-destroying-asteroids) |
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/indrajeetmandal00/LeetCode/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
+| [2439-minimize-maximum-of-array](https://github.com/indrajeetmandal00/LeetCode/tree/master/2439-minimize-maximum-of-array) |
 | [2706-buy-two-chocolates](https://github.com/indrajeetmandal00/LeetCode/tree/master/2706-buy-two-chocolates) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/indrajeetmandal00/LeetCode/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/indrajeetmandal00/LeetCode/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
@@ -479,6 +482,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1888-minimum-number-of-flips-to-make-the-binary-string-alternating](https://github.com/indrajeetmandal00/LeetCode/tree/master/1888-minimum-number-of-flips-to-make-the-binary-string-alternating) |
 | [2060-check-if-an-original-string-exists-given-two-encoded-strings](https://github.com/indrajeetmandal00/LeetCode/tree/master/2060-check-if-an-original-string-exists-given-two-encoded-strings) |
 | [2400-number-of-ways-to-reach-a-position-after-exactly-k-steps](https://github.com/indrajeetmandal00/LeetCode/tree/master/2400-number-of-ways-to-reach-a-position-after-exactly-k-steps) |
+| [2439-minimize-maximum-of-array](https://github.com/indrajeetmandal00/LeetCode/tree/master/2439-minimize-maximum-of-array) |
 | [2463-minimum-total-distance-traveled](https://github.com/indrajeetmandal00/LeetCode/tree/master/2463-minimum-total-distance-traveled) |
 | [2770-maximum-number-of-jumps-to-reach-the-last-index](https://github.com/indrajeetmandal00/LeetCode/tree/master/2770-maximum-number-of-jumps-to-reach-the-last-index) |
 | [3129-find-all-possible-stable-binary-arrays-i](https://github.com/indrajeetmandal00/LeetCode/tree/master/3129-find-all-possible-stable-binary-arrays-i) |
@@ -643,6 +647,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1871-jump-game-vii](https://github.com/indrajeetmandal00/LeetCode/tree/master/1871-jump-game-vii) |
 | [1878-get-biggest-three-rhombus-sums-in-a-grid](https://github.com/indrajeetmandal00/LeetCode/tree/master/1878-get-biggest-three-rhombus-sums-in-a-grid) |
 | [2438-range-product-queries-of-powers](https://github.com/indrajeetmandal00/LeetCode/tree/master/2438-range-product-queries-of-powers) |
+| [2439-minimize-maximum-of-array](https://github.com/indrajeetmandal00/LeetCode/tree/master/2439-minimize-maximum-of-array) |
 | [2574-left-and-right-sum-differences](https://github.com/indrajeetmandal00/LeetCode/tree/master/2574-left-and-right-sum-differences) |
 | [2615-sum-of-distances](https://github.com/indrajeetmandal00/LeetCode/tree/master/2615-sum-of-distances) |
 | [2906-construct-product-matrix](https://github.com/indrajeetmandal00/LeetCode/tree/master/2906-construct-product-matrix) |
