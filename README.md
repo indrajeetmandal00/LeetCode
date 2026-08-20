@@ -422,6 +422,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0045-jump-game-ii](https://github.com/indrajeetmandal00/LeetCode/tree/master/0045-jump-game-ii) |
 | [0053-maximum-subarray](https://github.com/indrajeetmandal00/LeetCode/tree/master/0053-maximum-subarray) |
 | [0055-jump-game](https://github.com/indrajeetmandal00/LeetCode/tree/master/0055-jump-game) |
+| [0062-unique-paths](https://github.com/indrajeetmandal00/LeetCode/tree/master/0062-unique-paths) |
 | [0070-climbing-stairs](https://github.com/indrajeetmandal00/LeetCode/tree/master/0070-climbing-stairs) |
 | [0072-edit-distance](https://github.com/indrajeetmandal00/LeetCode/tree/master/0072-edit-distance) |
 | [0343-integer-break](https://github.com/indrajeetmandal00/LeetCode/tree/master/0343-integer-break) |
@@ -536,6 +537,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0048-rotate-image](https://github.com/indrajeetmandal00/LeetCode/tree/master/0048-rotate-image) |
 | [0050-powx-n](https://github.com/indrajeetmandal00/LeetCode/tree/master/0050-powx-n) |
 | [0060-permutation-sequence](https://github.com/indrajeetmandal00/LeetCode/tree/master/0060-permutation-sequence) |
+| [0062-unique-paths](https://github.com/indrajeetmandal00/LeetCode/tree/master/0062-unique-paths) |
 | [0067-add-binary](https://github.com/indrajeetmandal00/LeetCode/tree/master/0067-add-binary) |
 | [0069-sqrtx](https://github.com/indrajeetmandal00/LeetCode/tree/master/0069-sqrtx) |
 | [0070-climbing-stairs](https://github.com/indrajeetmandal00/LeetCode/tree/master/0070-climbing-stairs) |
@@ -786,6 +788,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Combinatorics
 |  |
 | ------- |
+| [0062-unique-paths](https://github.com/indrajeetmandal00/LeetCode/tree/master/0062-unique-paths) |
 | [1735-count-ways-to-make-array-with-product](https://github.com/indrajeetmandal00/LeetCode/tree/master/1735-count-ways-to-make-array-with-product) |
 | [2400-number-of-ways-to-reach-a-position-after-exactly-k-steps](https://github.com/indrajeetmandal00/LeetCode/tree/master/2400-number-of-ways-to-reach-a-position-after-exactly-k-steps) |
 | [3312-sorted-gcd-pair-queries](https://github.com/indrajeetmandal00/LeetCode/tree/master/3312-sorted-gcd-pair-queries) |
