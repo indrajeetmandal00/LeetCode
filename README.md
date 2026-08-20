@@ -143,6 +143,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0628-maximum-product-of-three-numbers](https://github.com/indrajeetmandal00/LeetCode/tree/master/0628-maximum-product-of-three-numbers) |
 | [0674-longest-continuous-increasing-subsequence](https://github.com/indrajeetmandal00/LeetCode/tree/master/0674-longest-continuous-increasing-subsequence) |
 | [0857-minimum-cost-to-hire-k-workers](https://github.com/indrajeetmandal00/LeetCode/tree/master/0857-minimum-cost-to-hire-k-workers) |
+| [0860-lemonade-change](https://github.com/indrajeetmandal00/LeetCode/tree/master/0860-lemonade-change) |
 | [0874-walking-robot-simulation](https://github.com/indrajeetmandal00/LeetCode/tree/master/0874-walking-robot-simulation) |
 | [0877-stone-game](https://github.com/indrajeetmandal00/LeetCode/tree/master/0877-stone-game) |
 | [1002-find-common-characters](https://github.com/indrajeetmandal00/LeetCode/tree/master/1002-find-common-characters) |
@@ -366,6 +367,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0045-jump-game-ii](https://github.com/indrajeetmandal00/LeetCode/tree/master/0045-jump-game-ii) |
 | [0055-jump-game](https://github.com/indrajeetmandal00/LeetCode/tree/master/0055-jump-game) |
 | [0857-minimum-cost-to-hire-k-workers](https://github.com/indrajeetmandal00/LeetCode/tree/master/0857-minimum-cost-to-hire-k-workers) |
+| [0860-lemonade-change](https://github.com/indrajeetmandal00/LeetCode/tree/master/0860-lemonade-change) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/indrajeetmandal00/LeetCode/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [1536-minimum-swaps-to-arrange-a-binary-grid](https://github.com/indrajeetmandal00/LeetCode/tree/master/1536-minimum-swaps-to-arrange-a-binary-grid) |
 | [1689-partitioning-into-minimum-number-of-deci-binary-numbers](https://github.com/indrajeetmandal00/LeetCode/tree/master/1689-partitioning-into-minimum-number-of-deci-binary-numbers) |
