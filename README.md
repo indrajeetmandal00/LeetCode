@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0049-group-anagrams](https://github.com/indrajeetmandal00/LeetCode/tree/master/0049-group-anagrams) |
 | [0076-minimum-window-substring](https://github.com/indrajeetmandal00/LeetCode/tree/master/0076-minimum-window-substring) |
 | [0874-walking-robot-simulation](https://github.com/indrajeetmandal00/LeetCode/tree/master/0874-walking-robot-simulation) |
 | [1002-find-common-characters](https://github.com/indrajeetmandal00/LeetCode/tree/master/1002-find-common-characters) |
@@ -48,6 +49,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0043-multiply-strings](https://github.com/indrajeetmandal00/LeetCode/tree/master/0043-multiply-strings) |
 | [0044-wildcard-matching](https://github.com/indrajeetmandal00/LeetCode/tree/master/0044-wildcard-matching) |
+| [0049-group-anagrams](https://github.com/indrajeetmandal00/LeetCode/tree/master/0049-group-anagrams) |
 | [0067-add-binary](https://github.com/indrajeetmandal00/LeetCode/tree/master/0067-add-binary) |
 | [0068-text-justification](https://github.com/indrajeetmandal00/LeetCode/tree/master/0068-text-justification) |
 | [0071-simplify-path](https://github.com/indrajeetmandal00/LeetCode/tree/master/0071-simplify-path) |
@@ -115,6 +117,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0046-permutations](https://github.com/indrajeetmandal00/LeetCode/tree/master/0046-permutations) |
 | [0047-permutations-ii](https://github.com/indrajeetmandal00/LeetCode/tree/master/0047-permutations-ii) |
 | [0048-rotate-image](https://github.com/indrajeetmandal00/LeetCode/tree/master/0048-rotate-image) |
+| [0049-group-anagrams](https://github.com/indrajeetmandal00/LeetCode/tree/master/0049-group-anagrams) |
 | [0059-spiral-matrix-ii](https://github.com/indrajeetmandal00/LeetCode/tree/master/0059-spiral-matrix-ii) |
 | [0068-text-justification](https://github.com/indrajeetmandal00/LeetCode/tree/master/0068-text-justification) |
 | [0074-search-a-2d-matrix](https://github.com/indrajeetmandal00/LeetCode/tree/master/0074-search-a-2d-matrix) |
@@ -368,6 +371,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0047-permutations-ii](https://github.com/indrajeetmandal00/LeetCode/tree/master/0047-permutations-ii) |
+| [0049-group-anagrams](https://github.com/indrajeetmandal00/LeetCode/tree/master/0049-group-anagrams) |
 | [0075-sort-colors](https://github.com/indrajeetmandal00/LeetCode/tree/master/0075-sort-colors) |
 | [0628-maximum-product-of-three-numbers](https://github.com/indrajeetmandal00/LeetCode/tree/master/0628-maximum-product-of-three-numbers) |
 | [0761-special-binary-string](https://github.com/indrajeetmandal00/LeetCode/tree/master/0761-special-binary-string) |
