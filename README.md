@@ -62,6 +62,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0761-special-binary-string](https://github.com/indrajeetmandal00/LeetCode/tree/master/0761-special-binary-string) |
 | [0796-rotate-string](https://github.com/indrajeetmandal00/LeetCode/tree/master/0796-rotate-string) |
 | [0854-k-similar-strings](https://github.com/indrajeetmandal00/LeetCode/tree/master/0854-k-similar-strings) |
+| [0856-score-of-parentheses](https://github.com/indrajeetmandal00/LeetCode/tree/master/0856-score-of-parentheses) |
 | [0903-valid-permutations-for-di-sequence](https://github.com/indrajeetmandal00/LeetCode/tree/master/0903-valid-permutations-for-di-sequence) |
 | [1002-find-common-characters](https://github.com/indrajeetmandal00/LeetCode/tree/master/1002-find-common-characters) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/indrajeetmandal00/LeetCode/tree/master/1081-smallest-subsequence-of-distinct-characters) |
@@ -658,6 +659,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0071-simplify-path](https://github.com/indrajeetmandal00/LeetCode/tree/master/0071-simplify-path) |
+| [0856-score-of-parentheses](https://github.com/indrajeetmandal00/LeetCode/tree/master/0856-score-of-parentheses) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/indrajeetmandal00/LeetCode/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [2130-maximum-twin-sum-of-a-linked-list](https://github.com/indrajeetmandal00/LeetCode/tree/master/2130-maximum-twin-sum-of-a-linked-list) |
 | [2751-robot-collisions](https://github.com/indrajeetmandal00/LeetCode/tree/master/2751-robot-collisions) |
@@ -868,4 +870,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0051-n-queens](https://github.com/indrajeetmandal00/LeetCode/tree/master/0051-n-queens) |
 | [0052-n-queens-ii](https://github.com/indrajeetmandal00/LeetCode/tree/master/0052-n-queens-ii) |
+## Bracket Sequences
+|  |
+| ------- |
+| [0856-score-of-parentheses](https://github.com/indrajeetmandal00/LeetCode/tree/master/0856-score-of-parentheses) |
 <!---LeetCode Topics End-->
