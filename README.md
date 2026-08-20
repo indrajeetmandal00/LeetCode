@@ -122,6 +122,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0053-maximum-subarray](https://github.com/indrajeetmandal00/LeetCode/tree/master/0053-maximum-subarray) |
 | [0054-spiral-matrix](https://github.com/indrajeetmandal00/LeetCode/tree/master/0054-spiral-matrix) |
 | [0055-jump-game](https://github.com/indrajeetmandal00/LeetCode/tree/master/0055-jump-game) |
+| [0056-merge-intervals](https://github.com/indrajeetmandal00/LeetCode/tree/master/0056-merge-intervals) |
 | [0059-spiral-matrix-ii](https://github.com/indrajeetmandal00/LeetCode/tree/master/0059-spiral-matrix-ii) |
 | [0068-text-justification](https://github.com/indrajeetmandal00/LeetCode/tree/master/0068-text-justification) |
 | [0074-search-a-2d-matrix](https://github.com/indrajeetmandal00/LeetCode/tree/master/0074-search-a-2d-matrix) |
@@ -378,6 +379,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0047-permutations-ii](https://github.com/indrajeetmandal00/LeetCode/tree/master/0047-permutations-ii) |
 | [0049-group-anagrams](https://github.com/indrajeetmandal00/LeetCode/tree/master/0049-group-anagrams) |
+| [0056-merge-intervals](https://github.com/indrajeetmandal00/LeetCode/tree/master/0056-merge-intervals) |
 | [0075-sort-colors](https://github.com/indrajeetmandal00/LeetCode/tree/master/0075-sort-colors) |
 | [0628-maximum-product-of-three-numbers](https://github.com/indrajeetmandal00/LeetCode/tree/master/0628-maximum-product-of-three-numbers) |
 | [0761-special-binary-string](https://github.com/indrajeetmandal00/LeetCode/tree/master/0761-special-binary-string) |
@@ -836,6 +838,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Quicksort
 |  |
 | ------- |
+| [0056-merge-intervals](https://github.com/indrajeetmandal00/LeetCode/tree/master/0056-merge-intervals) |
 | [0075-sort-colors](https://github.com/indrajeetmandal00/LeetCode/tree/master/0075-sort-colors) |
 ## Bubble Sort
 |  |
