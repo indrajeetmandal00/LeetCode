@@ -314,6 +314,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Heap (Priority Queue)
 |  |
 | ------- |
+| [0855-exam-room](https://github.com/indrajeetmandal00/LeetCode/tree/master/0855-exam-room) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/indrajeetmandal00/LeetCode/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1878-get-biggest-three-rhombus-sums-in-a-grid](https://github.com/indrajeetmandal00/LeetCode/tree/master/1878-get-biggest-three-rhombus-sums-in-a-grid) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/indrajeetmandal00/LeetCode/tree/master/2812-find-the-safest-path-in-a-grid) |
@@ -537,6 +538,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Design
 |  |
 | ------- |
+| [0855-exam-room](https://github.com/indrajeetmandal00/LeetCode/tree/master/0855-exam-room) |
 | [1622-fancy-sequence](https://github.com/indrajeetmandal00/LeetCode/tree/master/1622-fancy-sequence) |
 | [2069-walking-robot-simulation-ii](https://github.com/indrajeetmandal00/LeetCode/tree/master/2069-walking-robot-simulation-ii) |
 ## Math
@@ -774,6 +776,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Ordered Set
 |  |
 | ------- |
+| [0855-exam-room](https://github.com/indrajeetmandal00/LeetCode/tree/master/0855-exam-room) |
 | [2213-longest-substring-of-one-repeating-character](https://github.com/indrajeetmandal00/LeetCode/tree/master/2213-longest-substring-of-one-repeating-character) |
 | [3161-block-placement-queries](https://github.com/indrajeetmandal00/LeetCode/tree/master/3161-block-placement-queries) |
 | [3666-minimum-operations-to-equalize-binary-string](https://github.com/indrajeetmandal00/LeetCode/tree/master/3666-minimum-operations-to-equalize-binary-string) |
