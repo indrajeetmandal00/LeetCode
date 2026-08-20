@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0076-minimum-window-substring](https://github.com/indrajeetmandal00/LeetCode/tree/master/0076-minimum-window-substring) |
 | [0854-k-similar-strings](https://github.com/indrajeetmandal00/LeetCode/tree/master/0854-k-similar-strings) |
 | [0859-buddy-strings](https://github.com/indrajeetmandal00/LeetCode/tree/master/0859-buddy-strings) |
+| [0863-all-nodes-distance-k-in-binary-tree](https://github.com/indrajeetmandal00/LeetCode/tree/master/0863-all-nodes-distance-k-in-binary-tree) |
 | [0874-walking-robot-simulation](https://github.com/indrajeetmandal00/LeetCode/tree/master/0874-walking-robot-simulation) |
 | [1002-find-common-characters](https://github.com/indrajeetmandal00/LeetCode/tree/master/1002-find-common-characters) |
 | [1189-maximum-number-of-balloons](https://github.com/indrajeetmandal00/LeetCode/tree/master/1189-maximum-number-of-balloons) |
@@ -296,6 +297,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0854-k-similar-strings](https://github.com/indrajeetmandal00/LeetCode/tree/master/0854-k-similar-strings) |
+| [0863-all-nodes-distance-k-in-binary-tree](https://github.com/indrajeetmandal00/LeetCode/tree/master/0863-all-nodes-distance-k-in-binary-tree) |
 | [1306-jump-game-iii](https://github.com/indrajeetmandal00/LeetCode/tree/master/1306-jump-game-iii) |
 | [1319-number-of-operations-to-make-network-connected](https://github.com/indrajeetmandal00/LeetCode/tree/master/1319-number-of-operations-to-make-network-connected) |
 | [1345-jump-game-iv](https://github.com/indrajeetmandal00/LeetCode/tree/master/1345-jump-game-iv) |
@@ -698,6 +700,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0098-validate-binary-search-tree](https://github.com/indrajeetmandal00/LeetCode/tree/master/0098-validate-binary-search-tree) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/indrajeetmandal00/LeetCode/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0430-flatten-a-multilevel-doubly-linked-list](https://github.com/indrajeetmandal00/LeetCode/tree/master/0430-flatten-a-multilevel-doubly-linked-list) |
+| [0863-all-nodes-distance-k-in-binary-tree](https://github.com/indrajeetmandal00/LeetCode/tree/master/0863-all-nodes-distance-k-in-binary-tree) |
 | [1038-binary-search-tree-to-greater-sum-tree](https://github.com/indrajeetmandal00/LeetCode/tree/master/1038-binary-search-tree-to-greater-sum-tree) |
 | [1306-jump-game-iii](https://github.com/indrajeetmandal00/LeetCode/tree/master/1306-jump-game-iii) |
 | [1319-number-of-operations-to-make-network-connected](https://github.com/indrajeetmandal00/LeetCode/tree/master/1319-number-of-operations-to-make-network-connected) |
@@ -717,6 +720,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0098-validate-binary-search-tree](https://github.com/indrajeetmandal00/LeetCode/tree/master/0098-validate-binary-search-tree) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/indrajeetmandal00/LeetCode/tree/master/0230-kth-smallest-element-in-a-bst) |
+| [0863-all-nodes-distance-k-in-binary-tree](https://github.com/indrajeetmandal00/LeetCode/tree/master/0863-all-nodes-distance-k-in-binary-tree) |
 | [1038-binary-search-tree-to-greater-sum-tree](https://github.com/indrajeetmandal00/LeetCode/tree/master/1038-binary-search-tree-to-greater-sum-tree) |
 | [2196-create-binary-tree-from-descriptions](https://github.com/indrajeetmandal00/LeetCode/tree/master/2196-create-binary-tree-from-descriptions) |
 | [3558-number-of-ways-to-assign-edge-weights-i](https://github.com/indrajeetmandal00/LeetCode/tree/master/3558-number-of-ways-to-assign-edge-weights-i) |
@@ -766,6 +770,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0098-validate-binary-search-tree](https://github.com/indrajeetmandal00/LeetCode/tree/master/0098-validate-binary-search-tree) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/indrajeetmandal00/LeetCode/tree/master/0230-kth-smallest-element-in-a-bst) |
+| [0863-all-nodes-distance-k-in-binary-tree](https://github.com/indrajeetmandal00/LeetCode/tree/master/0863-all-nodes-distance-k-in-binary-tree) |
 | [1038-binary-search-tree-to-greater-sum-tree](https://github.com/indrajeetmandal00/LeetCode/tree/master/1038-binary-search-tree-to-greater-sum-tree) |
 | [2196-create-binary-tree-from-descriptions](https://github.com/indrajeetmandal00/LeetCode/tree/master/2196-create-binary-tree-from-descriptions) |
 ## Database
