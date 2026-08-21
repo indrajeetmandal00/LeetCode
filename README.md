@@ -52,6 +52,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/indrajeetmandal00/LeetCode/tree/master/0020-valid-parentheses) |
+| [0022-generate-parentheses](https://github.com/indrajeetmandal00/LeetCode/tree/master/0022-generate-parentheses) |
 | [0043-multiply-strings](https://github.com/indrajeetmandal00/LeetCode/tree/master/0043-multiply-strings) |
 | [0044-wildcard-matching](https://github.com/indrajeetmandal00/LeetCode/tree/master/0044-wildcard-matching) |
 | [0049-group-anagrams](https://github.com/indrajeetmandal00/LeetCode/tree/master/0049-group-anagrams) |
@@ -460,6 +461,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0022-generate-parentheses](https://github.com/indrajeetmandal00/LeetCode/tree/master/0022-generate-parentheses) |
 | [0044-wildcard-matching](https://github.com/indrajeetmandal00/LeetCode/tree/master/0044-wildcard-matching) |
 | [0045-jump-game-ii](https://github.com/indrajeetmandal00/LeetCode/tree/master/0045-jump-game-ii) |
 | [0053-maximum-subarray](https://github.com/indrajeetmandal00/LeetCode/tree/master/0053-maximum-subarray) |
@@ -709,6 +711,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Backtracking
 |  |
 | ------- |
+| [0022-generate-parentheses](https://github.com/indrajeetmandal00/LeetCode/tree/master/0022-generate-parentheses) |
 | [0046-permutations](https://github.com/indrajeetmandal00/LeetCode/tree/master/0046-permutations) |
 | [0047-permutations-ii](https://github.com/indrajeetmandal00/LeetCode/tree/master/0047-permutations-ii) |
 | [0051-n-queens](https://github.com/indrajeetmandal00/LeetCode/tree/master/0051-n-queens) |
@@ -933,6 +936,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/indrajeetmandal00/LeetCode/tree/master/0020-valid-parentheses) |
+| [0022-generate-parentheses](https://github.com/indrajeetmandal00/LeetCode/tree/master/0022-generate-parentheses) |
 | [0856-score-of-parentheses](https://github.com/indrajeetmandal00/LeetCode/tree/master/0856-score-of-parentheses) |
 ## Least Common Multiple
 |  |
