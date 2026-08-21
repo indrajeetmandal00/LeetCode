@@ -122,6 +122,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0018-4sum](https://github.com/indrajeetmandal00/LeetCode/tree/master/0018-4sum) |
 | [0033-search-in-rotated-sorted-array](https://github.com/indrajeetmandal00/LeetCode/tree/master/0033-search-in-rotated-sorted-array) |
 | [0045-jump-game-ii](https://github.com/indrajeetmandal00/LeetCode/tree/master/0045-jump-game-ii) |
 | [0046-permutations](https://github.com/indrajeetmandal00/LeetCode/tree/master/0046-permutations) |
@@ -417,6 +418,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0018-4sum](https://github.com/indrajeetmandal00/LeetCode/tree/master/0018-4sum) |
 | [0047-permutations-ii](https://github.com/indrajeetmandal00/LeetCode/tree/master/0047-permutations-ii) |
 | [0049-group-anagrams](https://github.com/indrajeetmandal00/LeetCode/tree/master/0049-group-anagrams) |
 | [0056-merge-intervals](https://github.com/indrajeetmandal00/LeetCode/tree/master/0056-merge-intervals) |
@@ -529,6 +531,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0018-4sum](https://github.com/indrajeetmandal00/LeetCode/tree/master/0018-4sum) |
 | [0061-rotate-list](https://github.com/indrajeetmandal00/LeetCode/tree/master/0061-rotate-list) |
 | [0075-sort-colors](https://github.com/indrajeetmandal00/LeetCode/tree/master/0075-sort-colors) |
 | [0696-count-binary-substrings](https://github.com/indrajeetmandal00/LeetCode/tree/master/0696-count-binary-substrings) |
