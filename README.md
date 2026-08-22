@@ -66,6 +66,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0072-edit-distance](https://github.com/indrajeetmandal00/LeetCode/tree/master/0072-edit-distance) |
 | [0076-minimum-window-substring](https://github.com/indrajeetmandal00/LeetCode/tree/master/0076-minimum-window-substring) |
 | [0079-word-search](https://github.com/indrajeetmandal00/LeetCode/tree/master/0079-word-search) |
+| [0087-scramble-string](https://github.com/indrajeetmandal00/LeetCode/tree/master/0087-scramble-string) |
 | [0657-robot-return-to-origin](https://github.com/indrajeetmandal00/LeetCode/tree/master/0657-robot-return-to-origin) |
 | [0696-count-binary-substrings](https://github.com/indrajeetmandal00/LeetCode/tree/master/0696-count-binary-substrings) |
 | [0761-special-binary-string](https://github.com/indrajeetmandal00/LeetCode/tree/master/0761-special-binary-string) |
@@ -488,6 +489,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0070-climbing-stairs](https://github.com/indrajeetmandal00/LeetCode/tree/master/0070-climbing-stairs) |
 | [0072-edit-distance](https://github.com/indrajeetmandal00/LeetCode/tree/master/0072-edit-distance) |
 | [0085-maximal-rectangle](https://github.com/indrajeetmandal00/LeetCode/tree/master/0085-maximal-rectangle) |
+| [0087-scramble-string](https://github.com/indrajeetmandal00/LeetCode/tree/master/0087-scramble-string) |
 | [0343-integer-break](https://github.com/indrajeetmandal00/LeetCode/tree/master/0343-integer-break) |
 | [0396-rotate-function](https://github.com/indrajeetmandal00/LeetCode/tree/master/0396-rotate-function) |
 | [0486-predict-the-winner](https://github.com/indrajeetmandal00/LeetCode/tree/master/0486-predict-the-winner) |
