@@ -618,6 +618,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0067-add-binary](https://github.com/indrajeetmandal00/LeetCode/tree/master/0067-add-binary) |
 | [0069-sqrtx](https://github.com/indrajeetmandal00/LeetCode/tree/master/0069-sqrtx) |
 | [0070-climbing-stairs](https://github.com/indrajeetmandal00/LeetCode/tree/master/0070-climbing-stairs) |
+| [0089-gray-code](https://github.com/indrajeetmandal00/LeetCode/tree/master/0089-gray-code) |
 | [0343-integer-break](https://github.com/indrajeetmandal00/LeetCode/tree/master/0343-integer-break) |
 | [0396-rotate-function](https://github.com/indrajeetmandal00/LeetCode/tree/master/0396-rotate-function) |
 | [0486-predict-the-winner](https://github.com/indrajeetmandal00/LeetCode/tree/master/0486-predict-the-winner) |
@@ -751,6 +752,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0077-combinations](https://github.com/indrajeetmandal00/LeetCode/tree/master/0077-combinations) |
 | [0078-subsets](https://github.com/indrajeetmandal00/LeetCode/tree/master/0078-subsets) |
 | [0079-word-search](https://github.com/indrajeetmandal00/LeetCode/tree/master/0079-word-search) |
+| [0089-gray-code](https://github.com/indrajeetmandal00/LeetCode/tree/master/0089-gray-code) |
 | [0401-binary-watch](https://github.com/indrajeetmandal00/LeetCode/tree/master/0401-binary-watch) |
 | [1415-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n](https://github.com/indrajeetmandal00/LeetCode/tree/master/1415-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n) |
 | [1980-find-unique-binary-string](https://github.com/indrajeetmandal00/LeetCode/tree/master/1980-find-unique-binary-string) |
@@ -808,6 +810,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0067-add-binary](https://github.com/indrajeetmandal00/LeetCode/tree/master/0067-add-binary) |
 | [0078-subsets](https://github.com/indrajeetmandal00/LeetCode/tree/master/0078-subsets) |
+| [0089-gray-code](https://github.com/indrajeetmandal00/LeetCode/tree/master/0089-gray-code) |
 | [0401-binary-watch](https://github.com/indrajeetmandal00/LeetCode/tree/master/0401-binary-watch) |
 | [0762-prime-number-of-set-bits-in-binary-representation](https://github.com/indrajeetmandal00/LeetCode/tree/master/0762-prime-number-of-set-bits-in-binary-representation) |
 | [0861-score-after-flipping-matrix](https://github.com/indrajeetmandal00/LeetCode/tree/master/0861-score-after-flipping-matrix) |
