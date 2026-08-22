@@ -496,6 +496,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0085-maximal-rectangle](https://github.com/indrajeetmandal00/LeetCode/tree/master/0085-maximal-rectangle) |
 | [0087-scramble-string](https://github.com/indrajeetmandal00/LeetCode/tree/master/0087-scramble-string) |
 | [0091-decode-ways](https://github.com/indrajeetmandal00/LeetCode/tree/master/0091-decode-ways) |
+| [0095-unique-binary-search-trees-ii](https://github.com/indrajeetmandal00/LeetCode/tree/master/0095-unique-binary-search-trees-ii) |
 | [0343-integer-break](https://github.com/indrajeetmandal00/LeetCode/tree/master/0343-integer-break) |
 | [0396-rotate-function](https://github.com/indrajeetmandal00/LeetCode/tree/master/0396-rotate-function) |
 | [0486-predict-the-winner](https://github.com/indrajeetmandal00/LeetCode/tree/master/0486-predict-the-winner) |
@@ -760,6 +761,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0089-gray-code](https://github.com/indrajeetmandal00/LeetCode/tree/master/0089-gray-code) |
 | [0090-subsets-ii](https://github.com/indrajeetmandal00/LeetCode/tree/master/0090-subsets-ii) |
 | [0093-restore-ip-addresses](https://github.com/indrajeetmandal00/LeetCode/tree/master/0093-restore-ip-addresses) |
+| [0095-unique-binary-search-trees-ii](https://github.com/indrajeetmandal00/LeetCode/tree/master/0095-unique-binary-search-trees-ii) |
 | [0401-binary-watch](https://github.com/indrajeetmandal00/LeetCode/tree/master/0401-binary-watch) |
 | [1415-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n](https://github.com/indrajeetmandal00/LeetCode/tree/master/1415-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n) |
 | [1980-find-unique-binary-string](https://github.com/indrajeetmandal00/LeetCode/tree/master/1980-find-unique-binary-string) |
@@ -792,6 +794,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/indrajeetmandal00/LeetCode/tree/master/0094-binary-tree-inorder-traversal) |
+| [0095-unique-binary-search-trees-ii](https://github.com/indrajeetmandal00/LeetCode/tree/master/0095-unique-binary-search-trees-ii) |
 | [0098-validate-binary-search-tree](https://github.com/indrajeetmandal00/LeetCode/tree/master/0098-validate-binary-search-tree) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/indrajeetmandal00/LeetCode/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0863-all-nodes-distance-k-in-binary-tree](https://github.com/indrajeetmandal00/LeetCode/tree/master/0863-all-nodes-distance-k-in-binary-tree) |
@@ -845,6 +848,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Search Tree
 |  |
 | ------- |
+| [0095-unique-binary-search-trees-ii](https://github.com/indrajeetmandal00/LeetCode/tree/master/0095-unique-binary-search-trees-ii) |
 | [0098-validate-binary-search-tree](https://github.com/indrajeetmandal00/LeetCode/tree/master/0098-validate-binary-search-tree) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/indrajeetmandal00/LeetCode/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [1038-binary-search-tree-to-greater-sum-tree](https://github.com/indrajeetmandal00/LeetCode/tree/master/1038-binary-search-tree-to-greater-sum-tree) |
@@ -852,6 +856,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/indrajeetmandal00/LeetCode/tree/master/0094-binary-tree-inorder-traversal) |
+| [0095-unique-binary-search-trees-ii](https://github.com/indrajeetmandal00/LeetCode/tree/master/0095-unique-binary-search-trees-ii) |
 | [0098-validate-binary-search-tree](https://github.com/indrajeetmandal00/LeetCode/tree/master/0098-validate-binary-search-tree) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/indrajeetmandal00/LeetCode/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0863-all-nodes-distance-k-in-binary-tree](https://github.com/indrajeetmandal00/LeetCode/tree/master/0863-all-nodes-distance-k-in-binary-tree) |
