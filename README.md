@@ -65,6 +65,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0071-simplify-path](https://github.com/indrajeetmandal00/LeetCode/tree/master/0071-simplify-path) |
 | [0072-edit-distance](https://github.com/indrajeetmandal00/LeetCode/tree/master/0072-edit-distance) |
 | [0076-minimum-window-substring](https://github.com/indrajeetmandal00/LeetCode/tree/master/0076-minimum-window-substring) |
+| [0079-word-search](https://github.com/indrajeetmandal00/LeetCode/tree/master/0079-word-search) |
 | [0657-robot-return-to-origin](https://github.com/indrajeetmandal00/LeetCode/tree/master/0657-robot-return-to-origin) |
 | [0696-count-binary-substrings](https://github.com/indrajeetmandal00/LeetCode/tree/master/0696-count-binary-substrings) |
 | [0761-special-binary-string](https://github.com/indrajeetmandal00/LeetCode/tree/master/0761-special-binary-string) |
@@ -149,6 +150,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0074-search-a-2d-matrix](https://github.com/indrajeetmandal00/LeetCode/tree/master/0074-search-a-2d-matrix) |
 | [0075-sort-colors](https://github.com/indrajeetmandal00/LeetCode/tree/master/0075-sort-colors) |
 | [0078-subsets](https://github.com/indrajeetmandal00/LeetCode/tree/master/0078-subsets) |
+| [0079-word-search](https://github.com/indrajeetmandal00/LeetCode/tree/master/0079-word-search) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/indrajeetmandal00/LeetCode/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/indrajeetmandal00/LeetCode/tree/master/0154-find-minimum-in-rotated-sorted-array-ii) |
 | [0396-rotate-function](https://github.com/indrajeetmandal00/LeetCode/tree/master/0396-rotate-function) |
@@ -365,6 +367,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0063-unique-paths-ii](https://github.com/indrajeetmandal00/LeetCode/tree/master/0063-unique-paths-ii) |
 | [0064-minimum-path-sum](https://github.com/indrajeetmandal00/LeetCode/tree/master/0064-minimum-path-sum) |
 | [0074-search-a-2d-matrix](https://github.com/indrajeetmandal00/LeetCode/tree/master/0074-search-a-2d-matrix) |
+| [0079-word-search](https://github.com/indrajeetmandal00/LeetCode/tree/master/0079-word-search) |
 | [0861-score-after-flipping-matrix](https://github.com/indrajeetmandal00/LeetCode/tree/master/0861-score-after-flipping-matrix) |
 | [0864-shortest-path-to-get-all-keys](https://github.com/indrajeetmandal00/LeetCode/tree/master/0864-shortest-path-to-get-all-keys) |
 | [1260-shift-2d-grid](https://github.com/indrajeetmandal00/LeetCode/tree/master/1260-shift-2d-grid) |
@@ -730,6 +733,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0052-n-queens-ii](https://github.com/indrajeetmandal00/LeetCode/tree/master/0052-n-queens-ii) |
 | [0077-combinations](https://github.com/indrajeetmandal00/LeetCode/tree/master/0077-combinations) |
 | [0078-subsets](https://github.com/indrajeetmandal00/LeetCode/tree/master/0078-subsets) |
+| [0079-word-search](https://github.com/indrajeetmandal00/LeetCode/tree/master/0079-word-search) |
 | [0401-binary-watch](https://github.com/indrajeetmandal00/LeetCode/tree/master/0401-binary-watch) |
 | [1415-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n](https://github.com/indrajeetmandal00/LeetCode/tree/master/1415-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n) |
 | [1980-find-unique-binary-string](https://github.com/indrajeetmandal00/LeetCode/tree/master/1980-find-unique-binary-string) |
@@ -737,6 +741,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Depth-First Search
 |  |
 | ------- |
+| [0079-word-search](https://github.com/indrajeetmandal00/LeetCode/tree/master/0079-word-search) |
 | [0098-validate-binary-search-tree](https://github.com/indrajeetmandal00/LeetCode/tree/master/0098-validate-binary-search-tree) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/indrajeetmandal00/LeetCode/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0430-flatten-a-multilevel-doubly-linked-list](https://github.com/indrajeetmandal00/LeetCode/tree/master/0430-flatten-a-multilevel-doubly-linked-list) |
