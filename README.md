@@ -68,6 +68,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0079-word-search](https://github.com/indrajeetmandal00/LeetCode/tree/master/0079-word-search) |
 | [0087-scramble-string](https://github.com/indrajeetmandal00/LeetCode/tree/master/0087-scramble-string) |
 | [0091-decode-ways](https://github.com/indrajeetmandal00/LeetCode/tree/master/0091-decode-ways) |
+| [0093-restore-ip-addresses](https://github.com/indrajeetmandal00/LeetCode/tree/master/0093-restore-ip-addresses) |
 | [0657-robot-return-to-origin](https://github.com/indrajeetmandal00/LeetCode/tree/master/0657-robot-return-to-origin) |
 | [0696-count-binary-substrings](https://github.com/indrajeetmandal00/LeetCode/tree/master/0696-count-binary-substrings) |
 | [0761-special-binary-string](https://github.com/indrajeetmandal00/LeetCode/tree/master/0761-special-binary-string) |
@@ -757,6 +758,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0079-word-search](https://github.com/indrajeetmandal00/LeetCode/tree/master/0079-word-search) |
 | [0089-gray-code](https://github.com/indrajeetmandal00/LeetCode/tree/master/0089-gray-code) |
 | [0090-subsets-ii](https://github.com/indrajeetmandal00/LeetCode/tree/master/0090-subsets-ii) |
+| [0093-restore-ip-addresses](https://github.com/indrajeetmandal00/LeetCode/tree/master/0093-restore-ip-addresses) |
 | [0401-binary-watch](https://github.com/indrajeetmandal00/LeetCode/tree/master/0401-binary-watch) |
 | [1415-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n](https://github.com/indrajeetmandal00/LeetCode/tree/master/1415-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n) |
 | [1980-find-unique-binary-string](https://github.com/indrajeetmandal00/LeetCode/tree/master/1980-find-unique-binary-string) |
