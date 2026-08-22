@@ -156,6 +156,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/indrajeetmandal00/LeetCode/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0084-largest-rectangle-in-histogram](https://github.com/indrajeetmandal00/LeetCode/tree/master/0084-largest-rectangle-in-histogram) |
 | [0085-maximal-rectangle](https://github.com/indrajeetmandal00/LeetCode/tree/master/0085-maximal-rectangle) |
+| [0088-merge-sorted-array](https://github.com/indrajeetmandal00/LeetCode/tree/master/0088-merge-sorted-array) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/indrajeetmandal00/LeetCode/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/indrajeetmandal00/LeetCode/tree/master/0154-find-minimum-in-rotated-sorted-array-ii) |
 | [0396-rotate-function](https://github.com/indrajeetmandal00/LeetCode/tree/master/0396-rotate-function) |
@@ -442,6 +443,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0049-group-anagrams](https://github.com/indrajeetmandal00/LeetCode/tree/master/0049-group-anagrams) |
 | [0056-merge-intervals](https://github.com/indrajeetmandal00/LeetCode/tree/master/0056-merge-intervals) |
 | [0075-sort-colors](https://github.com/indrajeetmandal00/LeetCode/tree/master/0075-sort-colors) |
+| [0088-merge-sorted-array](https://github.com/indrajeetmandal00/LeetCode/tree/master/0088-merge-sorted-array) |
 | [0628-maximum-product-of-three-numbers](https://github.com/indrajeetmandal00/LeetCode/tree/master/0628-maximum-product-of-three-numbers) |
 | [0761-special-binary-string](https://github.com/indrajeetmandal00/LeetCode/tree/master/0761-special-binary-string) |
 | [0857-minimum-cost-to-hire-k-workers](https://github.com/indrajeetmandal00/LeetCode/tree/master/0857-minimum-cost-to-hire-k-workers) |
@@ -561,6 +563,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/indrajeetmandal00/LeetCode/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0082-remove-duplicates-from-sorted-list-ii](https://github.com/indrajeetmandal00/LeetCode/tree/master/0082-remove-duplicates-from-sorted-list-ii) |
 | [0086-partition-list](https://github.com/indrajeetmandal00/LeetCode/tree/master/0086-partition-list) |
+| [0088-merge-sorted-array](https://github.com/indrajeetmandal00/LeetCode/tree/master/0088-merge-sorted-array) |
 | [0696-count-binary-substrings](https://github.com/indrajeetmandal00/LeetCode/tree/master/0696-count-binary-substrings) |
 | [1855-maximum-distance-between-a-pair-of-values](https://github.com/indrajeetmandal00/LeetCode/tree/master/1855-maximum-distance-between-a-pair-of-values) |
 | [1861-rotating-the-box](https://github.com/indrajeetmandal00/LeetCode/tree/master/1861-rotating-the-box) |
