@@ -81,6 +81,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0856-score-of-parentheses](https://github.com/indrajeetmandal00/LeetCode/tree/master/0856-score-of-parentheses) |
 | [0859-buddy-strings](https://github.com/indrajeetmandal00/LeetCode/tree/master/0859-buddy-strings) |
 | [0903-valid-permutations-for-di-sequence](https://github.com/indrajeetmandal00/LeetCode/tree/master/0903-valid-permutations-for-di-sequence) |
+| [0940-distinct-subsequences-ii](https://github.com/indrajeetmandal00/LeetCode/tree/master/0940-distinct-subsequences-ii) |
 | [1002-find-common-characters](https://github.com/indrajeetmandal00/LeetCode/tree/master/1002-find-common-characters) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/indrajeetmandal00/LeetCode/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [1189-maximum-number-of-balloons](https://github.com/indrajeetmandal00/LeetCode/tree/master/1189-maximum-number-of-balloons) |
@@ -536,6 +537,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0799-champagne-tower](https://github.com/indrajeetmandal00/LeetCode/tree/master/0799-champagne-tower) |
 | [0877-stone-game](https://github.com/indrajeetmandal00/LeetCode/tree/master/0877-stone-game) |
 | [0903-valid-permutations-for-di-sequence](https://github.com/indrajeetmandal00/LeetCode/tree/master/0903-valid-permutations-for-di-sequence) |
+| [0940-distinct-subsequences-ii](https://github.com/indrajeetmandal00/LeetCode/tree/master/0940-distinct-subsequences-ii) |
 | [1140-stone-game-ii](https://github.com/indrajeetmandal00/LeetCode/tree/master/1140-stone-game-ii) |
 | [1301-number-of-paths-with-max-score](https://github.com/indrajeetmandal00/LeetCode/tree/master/1301-number-of-paths-with-max-score) |
 | [1320-minimum-distance-to-type-a-word-using-two-fingers](https://github.com/indrajeetmandal00/LeetCode/tree/master/1320-minimum-distance-to-type-a-word-using-two-fingers) |
