@@ -299,6 +299,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3772-maximum-subgraph-score-in-a-tree](https://github.com/indrajeetmandal00/LeetCode/tree/master/3772-maximum-subgraph-score-in-a-tree) |
 | [3838-weighted-word-mapping](https://github.com/indrajeetmandal00/LeetCode/tree/master/3838-weighted-word-mapping) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/indrajeetmandal00/LeetCode/tree/master/3867-sum-of-gcd-of-formed-pairs) |
+| [3875-construct-uniform-parity-array-i](https://github.com/indrajeetmandal00/LeetCode/tree/master/3875-construct-uniform-parity-array-i) |
 ## Enumeration
 |  |
 | ------- |
@@ -710,6 +711,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3761-minimum-absolute-distance-between-mirror-pairs](https://github.com/indrajeetmandal00/LeetCode/tree/master/3761-minimum-absolute-distance-between-mirror-pairs) |
 | [3783-mirror-distance-of-an-integer](https://github.com/indrajeetmandal00/LeetCode/tree/master/3783-mirror-distance-of-an-integer) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/indrajeetmandal00/LeetCode/tree/master/3867-sum-of-gcd-of-formed-pairs) |
+| [3875-construct-uniform-parity-array-i](https://github.com/indrajeetmandal00/LeetCode/tree/master/3875-construct-uniform-parity-array-i) |
 ## Divide and Conquer
 |  |
 | ------- |
