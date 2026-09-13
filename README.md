@@ -181,6 +181,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0486-predict-the-winner](https://github.com/indrajeetmandal00/LeetCode/tree/master/0486-predict-the-winner) |
 | [0628-maximum-product-of-three-numbers](https://github.com/indrajeetmandal00/LeetCode/tree/master/0628-maximum-product-of-three-numbers) |
 | [0674-longest-continuous-increasing-subsequence](https://github.com/indrajeetmandal00/LeetCode/tree/master/0674-longest-continuous-increasing-subsequence) |
+| [0835-image-overlap](https://github.com/indrajeetmandal00/LeetCode/tree/master/0835-image-overlap) |
 | [0857-minimum-cost-to-hire-k-workers](https://github.com/indrajeetmandal00/LeetCode/tree/master/0857-minimum-cost-to-hire-k-workers) |
 | [0860-lemonade-change](https://github.com/indrajeetmandal00/LeetCode/tree/master/0860-lemonade-change) |
 | [0861-score-after-flipping-matrix](https://github.com/indrajeetmandal00/LeetCode/tree/master/0861-score-after-flipping-matrix) |
@@ -412,6 +413,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0074-search-a-2d-matrix](https://github.com/indrajeetmandal00/LeetCode/tree/master/0074-search-a-2d-matrix) |
 | [0079-word-search](https://github.com/indrajeetmandal00/LeetCode/tree/master/0079-word-search) |
 | [0085-maximal-rectangle](https://github.com/indrajeetmandal00/LeetCode/tree/master/0085-maximal-rectangle) |
+| [0835-image-overlap](https://github.com/indrajeetmandal00/LeetCode/tree/master/0835-image-overlap) |
 | [0861-score-after-flipping-matrix](https://github.com/indrajeetmandal00/LeetCode/tree/master/0861-score-after-flipping-matrix) |
 | [0864-shortest-path-to-get-all-keys](https://github.com/indrajeetmandal00/LeetCode/tree/master/0864-shortest-path-to-get-all-keys) |
 | [1260-shift-2d-grid](https://github.com/indrajeetmandal00/LeetCode/tree/master/1260-shift-2d-grid) |
