@@ -131,6 +131,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3720-lexicographically-smallest-permutation-greater-than-target](https://github.com/indrajeetmandal00/LeetCode/tree/master/3720-lexicographically-smallest-permutation-greater-than-target) |
 | [3756-concatenate-non-zero-digits-and-multiply-by-sum-ii](https://github.com/indrajeetmandal00/LeetCode/tree/master/3756-concatenate-non-zero-digits-and-multiply-by-sum-ii) |
 | [3838-weighted-word-mapping](https://github.com/indrajeetmandal00/LeetCode/tree/master/3838-weighted-word-mapping) |
+| [3841-palindromic-path-queries-in-a-tree](https://github.com/indrajeetmandal00/LeetCode/tree/master/3841-palindromic-path-queries-in-a-tree) |
 | [3864-minimum-cost-to-partition-a-binary-string](https://github.com/indrajeetmandal00/LeetCode/tree/master/3864-minimum-cost-to-partition-a-binary-string) |
 ## Sliding Window
 |  |
@@ -311,6 +312,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3761-minimum-absolute-distance-between-mirror-pairs](https://github.com/indrajeetmandal00/LeetCode/tree/master/3761-minimum-absolute-distance-between-mirror-pairs) |
 | [3772-maximum-subgraph-score-in-a-tree](https://github.com/indrajeetmandal00/LeetCode/tree/master/3772-maximum-subgraph-score-in-a-tree) |
 | [3838-weighted-word-mapping](https://github.com/indrajeetmandal00/LeetCode/tree/master/3838-weighted-word-mapping) |
+| [3841-palindromic-path-queries-in-a-tree](https://github.com/indrajeetmandal00/LeetCode/tree/master/3841-palindromic-path-queries-in-a-tree) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/indrajeetmandal00/LeetCode/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 | [3875-construct-uniform-parity-array-i](https://github.com/indrajeetmandal00/LeetCode/tree/master/3875-construct-uniform-parity-array-i) |
 | [3876-construct-uniform-parity-array-ii](https://github.com/indrajeetmandal00/LeetCode/tree/master/3876-construct-uniform-parity-array-ii) |
@@ -763,6 +765,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3655-xor-after-range-multiplication-queries-ii](https://github.com/indrajeetmandal00/LeetCode/tree/master/3655-xor-after-range-multiplication-queries-ii) |
 | [3721-longest-balanced-subarray-ii](https://github.com/indrajeetmandal00/LeetCode/tree/master/3721-longest-balanced-subarray-ii) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/indrajeetmandal00/LeetCode/tree/master/3737-count-subarrays-with-majority-element-i) |
+| [3841-palindromic-path-queries-in-a-tree](https://github.com/indrajeetmandal00/LeetCode/tree/master/3841-palindromic-path-queries-in-a-tree) |
 | [3864-minimum-cost-to-partition-a-binary-string](https://github.com/indrajeetmandal00/LeetCode/tree/master/3864-minimum-cost-to-partition-a-binary-string) |
 ## Prefix Sum
 |  |
@@ -805,6 +808,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3691-maximum-total-subarray-value-ii](https://github.com/indrajeetmandal00/LeetCode/tree/master/3691-maximum-total-subarray-value-ii) |
 | [3721-longest-balanced-subarray-ii](https://github.com/indrajeetmandal00/LeetCode/tree/master/3721-longest-balanced-subarray-ii) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/indrajeetmandal00/LeetCode/tree/master/3737-count-subarrays-with-majority-element-i) |
+| [3841-palindromic-path-queries-in-a-tree](https://github.com/indrajeetmandal00/LeetCode/tree/master/3841-palindromic-path-queries-in-a-tree) |
 ## Merge Sort
 |  |
 | ------- |
@@ -879,6 +883,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3310-remove-methods-from-project](https://github.com/indrajeetmandal00/LeetCode/tree/master/3310-remove-methods-from-project) |
 | [3558-number-of-ways-to-assign-edge-weights-i](https://github.com/indrajeetmandal00/LeetCode/tree/master/3558-number-of-ways-to-assign-edge-weights-i) |
 | [3772-maximum-subgraph-score-in-a-tree](https://github.com/indrajeetmandal00/LeetCode/tree/master/3772-maximum-subgraph-score-in-a-tree) |
+| [3841-palindromic-path-queries-in-a-tree](https://github.com/indrajeetmandal00/LeetCode/tree/master/3841-palindromic-path-queries-in-a-tree) |
 ## Minimum Spanning Tree
 |  |
 | ------- |
@@ -907,6 +912,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/indrajeetmandal00/LeetCode/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
 | [3558-number-of-ways-to-assign-edge-weights-i](https://github.com/indrajeetmandal00/LeetCode/tree/master/3558-number-of-ways-to-assign-edge-weights-i) |
 | [3772-maximum-subgraph-score-in-a-tree](https://github.com/indrajeetmandal00/LeetCode/tree/master/3772-maximum-subgraph-score-in-a-tree) |
+| [3841-palindromic-path-queries-in-a-tree](https://github.com/indrajeetmandal00/LeetCode/tree/master/3841-palindromic-path-queries-in-a-tree) |
 ## Number Theory
 |  |
 | ------- |
@@ -942,6 +948,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3514-number-of-unique-xor-triplets-ii](https://github.com/indrajeetmandal00/LeetCode/tree/master/3514-number-of-unique-xor-triplets-ii) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/indrajeetmandal00/LeetCode/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 | [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/indrajeetmandal00/LeetCode/tree/master/3702-longest-subsequence-with-non-zero-bitwise-xor) |
+| [3841-palindromic-path-queries-in-a-tree](https://github.com/indrajeetmandal00/LeetCode/tree/master/3841-palindromic-path-queries-in-a-tree) |
 ## Trie
 |  |
 | ------- |
@@ -1017,6 +1024,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3161-block-placement-queries](https://github.com/indrajeetmandal00/LeetCode/tree/master/3161-block-placement-queries) |
+| [3841-palindromic-path-queries-in-a-tree](https://github.com/indrajeetmandal00/LeetCode/tree/master/3841-palindromic-path-queries-in-a-tree) |
 ## Ordered Set
 |  |
 | ------- |
