@@ -133,6 +133,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3756-concatenate-non-zero-digits-and-multiply-by-sum-ii](https://github.com/indrajeetmandal00/LeetCode/tree/master/3756-concatenate-non-zero-digits-and-multiply-by-sum-ii) |
 | [3838-weighted-word-mapping](https://github.com/indrajeetmandal00/LeetCode/tree/master/3838-weighted-word-mapping) |
 | [3841-palindromic-path-queries-in-a-tree](https://github.com/indrajeetmandal00/LeetCode/tree/master/3841-palindromic-path-queries-in-a-tree) |
+| [3863-minimum-operations-to-sort-a-string](https://github.com/indrajeetmandal00/LeetCode/tree/master/3863-minimum-operations-to-sort-a-string) |
 | [3864-minimum-cost-to-partition-a-binary-string](https://github.com/indrajeetmandal00/LeetCode/tree/master/3864-minimum-cost-to-partition-a-binary-string) |
 ## Sliding Window
 |  |
