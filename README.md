@@ -29,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2206-divide-array-into-equal-pairs](https://github.com/indrajeetmandal00/LeetCode/tree/master/2206-divide-array-into-equal-pairs) |
 | [2540-minimum-common-value](https://github.com/indrajeetmandal00/LeetCode/tree/master/2540-minimum-common-value) |
 | [2615-sum-of-distances](https://github.com/indrajeetmandal00/LeetCode/tree/master/2615-sum-of-distances) |
+| [2747-count-zero-request-servers](https://github.com/indrajeetmandal00/LeetCode/tree/master/2747-count-zero-request-servers) |
 | [2784-check-if-array-is-good](https://github.com/indrajeetmandal00/LeetCode/tree/master/2784-check-if-array-is-good) |
 | [2840-check-if-strings-can-be-made-equal-with-operations-ii](https://github.com/indrajeetmandal00/LeetCode/tree/master/2840-check-if-strings-can-be-made-equal-with-operations-ii) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/indrajeetmandal00/LeetCode/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
@@ -141,6 +142,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/indrajeetmandal00/LeetCode/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1871-jump-game-vii](https://github.com/indrajeetmandal00/LeetCode/tree/master/1871-jump-game-vii) |
 | [1888-minimum-number-of-flips-to-make-the-binary-string-alternating](https://github.com/indrajeetmandal00/LeetCode/tree/master/1888-minimum-number-of-flips-to-make-the-binary-string-alternating) |
+| [2747-count-zero-request-servers](https://github.com/indrajeetmandal00/LeetCode/tree/master/2747-count-zero-request-servers) |
 | [2904-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/indrajeetmandal00/LeetCode/tree/master/2904-shortest-and-lexicographically-smallest-beautiful-string) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/indrajeetmandal00/LeetCode/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/indrajeetmandal00/LeetCode/tree/master/3090-maximum-length-substring-with-two-occurrences) |
@@ -254,6 +256,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2574-left-and-right-sum-differences](https://github.com/indrajeetmandal00/LeetCode/tree/master/2574-left-and-right-sum-differences) |
 | [2615-sum-of-distances](https://github.com/indrajeetmandal00/LeetCode/tree/master/2615-sum-of-distances) |
 | [2706-buy-two-chocolates](https://github.com/indrajeetmandal00/LeetCode/tree/master/2706-buy-two-chocolates) |
+| [2747-count-zero-request-servers](https://github.com/indrajeetmandal00/LeetCode/tree/master/2747-count-zero-request-servers) |
 | [2751-robot-collisions](https://github.com/indrajeetmandal00/LeetCode/tree/master/2751-robot-collisions) |
 | [2770-maximum-number-of-jumps-to-reach-the-last-index](https://github.com/indrajeetmandal00/LeetCode/tree/master/2770-maximum-number-of-jumps-to-reach-the-last-index) |
 | [2784-check-if-array-is-good](https://github.com/indrajeetmandal00/LeetCode/tree/master/2784-check-if-array-is-good) |
@@ -527,6 +530,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/indrajeetmandal00/LeetCode/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
 | [2463-minimum-total-distance-traveled](https://github.com/indrajeetmandal00/LeetCode/tree/master/2463-minimum-total-distance-traveled) |
 | [2706-buy-two-chocolates](https://github.com/indrajeetmandal00/LeetCode/tree/master/2706-buy-two-chocolates) |
+| [2747-count-zero-request-servers](https://github.com/indrajeetmandal00/LeetCode/tree/master/2747-count-zero-request-servers) |
 | [2751-robot-collisions](https://github.com/indrajeetmandal00/LeetCode/tree/master/2751-robot-collisions) |
 | [2784-check-if-array-is-good](https://github.com/indrajeetmandal00/LeetCode/tree/master/2784-check-if-array-is-good) |
 | [2840-check-if-strings-can-be-made-equal-with-operations-ii](https://github.com/indrajeetmandal00/LeetCode/tree/master/2840-check-if-strings-can-be-made-equal-with-operations-ii) |
