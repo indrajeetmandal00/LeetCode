@@ -259,6 +259,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2747-count-zero-request-servers](https://github.com/indrajeetmandal00/LeetCode/tree/master/2747-count-zero-request-servers) |
 | [2751-robot-collisions](https://github.com/indrajeetmandal00/LeetCode/tree/master/2751-robot-collisions) |
 | [2770-maximum-number-of-jumps-to-reach-the-last-index](https://github.com/indrajeetmandal00/LeetCode/tree/master/2770-maximum-number-of-jumps-to-reach-the-last-index) |
+| [2778-sum-of-squares-of-special-elements](https://github.com/indrajeetmandal00/LeetCode/tree/master/2778-sum-of-squares-of-special-elements) |
 | [2784-check-if-array-is-good](https://github.com/indrajeetmandal00/LeetCode/tree/master/2784-check-if-array-is-good) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/indrajeetmandal00/LeetCode/tree/master/2812-find-the-safest-path-in-a-grid) |
 | [2906-construct-product-matrix](https://github.com/indrajeetmandal00/LeetCode/tree/master/2906-construct-product-matrix) |
@@ -327,6 +328,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1534-count-good-triplets](https://github.com/indrajeetmandal00/LeetCode/tree/master/1534-count-good-triplets) |
 | [2094-finding-3-digit-even-numbers](https://github.com/indrajeetmandal00/LeetCode/tree/master/2094-finding-3-digit-even-numbers) |
 | [2437-number-of-valid-clock-times](https://github.com/indrajeetmandal00/LeetCode/tree/master/2437-number-of-valid-clock-times) |
+| [2778-sum-of-squares-of-special-elements](https://github.com/indrajeetmandal00/LeetCode/tree/master/2778-sum-of-squares-of-special-elements) |
 | [2951-find-the-peaks](https://github.com/indrajeetmandal00/LeetCode/tree/master/2951-find-the-peaks) |
 | [3020-find-the-maximum-number-of-elements-in-subset](https://github.com/indrajeetmandal00/LeetCode/tree/master/3020-find-the-maximum-number-of-elements-in-subset) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/indrajeetmandal00/LeetCode/tree/master/3345-smallest-divisible-digit-product-i) |
