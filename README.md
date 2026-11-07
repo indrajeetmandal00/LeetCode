@@ -186,6 +186,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/indrajeetmandal00/LeetCode/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/indrajeetmandal00/LeetCode/tree/master/0154-find-minimum-in-rotated-sorted-array-ii) |
 | [0396-rotate-function](https://github.com/indrajeetmandal00/LeetCode/tree/master/0396-rotate-function) |
+| [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/indrajeetmandal00/LeetCode/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [0486-predict-the-winner](https://github.com/indrajeetmandal00/LeetCode/tree/master/0486-predict-the-winner) |
 | [0628-maximum-product-of-three-numbers](https://github.com/indrajeetmandal00/LeetCode/tree/master/0628-maximum-product-of-three-numbers) |
 | [0674-longest-continuous-increasing-subsequence](https://github.com/indrajeetmandal00/LeetCode/tree/master/0674-longest-continuous-increasing-subsequence) |
@@ -517,6 +518,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0056-merge-intervals](https://github.com/indrajeetmandal00/LeetCode/tree/master/0056-merge-intervals) |
 | [0075-sort-colors](https://github.com/indrajeetmandal00/LeetCode/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/indrajeetmandal00/LeetCode/tree/master/0088-merge-sorted-array) |
+| [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/indrajeetmandal00/LeetCode/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [0628-maximum-product-of-three-numbers](https://github.com/indrajeetmandal00/LeetCode/tree/master/0628-maximum-product-of-three-numbers) |
 | [0761-special-binary-string](https://github.com/indrajeetmandal00/LeetCode/tree/master/0761-special-binary-string) |
 | [0857-minimum-cost-to-hire-k-workers](https://github.com/indrajeetmandal00/LeetCode/tree/master/0857-minimum-cost-to-hire-k-workers) |
@@ -715,6 +717,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0096-unique-binary-search-trees](https://github.com/indrajeetmandal00/LeetCode/tree/master/0096-unique-binary-search-trees) |
 | [0343-integer-break](https://github.com/indrajeetmandal00/LeetCode/tree/master/0343-integer-break) |
 | [0396-rotate-function](https://github.com/indrajeetmandal00/LeetCode/tree/master/0396-rotate-function) |
+| [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/indrajeetmandal00/LeetCode/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [0486-predict-the-winner](https://github.com/indrajeetmandal00/LeetCode/tree/master/0486-predict-the-winner) |
 | [0628-maximum-product-of-three-numbers](https://github.com/indrajeetmandal00/LeetCode/tree/master/0628-maximum-product-of-three-numbers) |
 | [0762-prime-number-of-set-bits-in-binary-representation](https://github.com/indrajeetmandal00/LeetCode/tree/master/0762-prime-number-of-set-bits-in-binary-representation) |
