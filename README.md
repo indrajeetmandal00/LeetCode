@@ -256,6 +256,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2206-divide-array-into-equal-pairs](https://github.com/indrajeetmandal00/LeetCode/tree/master/2206-divide-array-into-equal-pairs) |
 | [2213-longest-substring-of-one-repeating-character](https://github.com/indrajeetmandal00/LeetCode/tree/master/2213-longest-substring-of-one-repeating-character) |
 | [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/indrajeetmandal00/LeetCode/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
+| [2333-minimum-sum-of-squared-difference](https://github.com/indrajeetmandal00/LeetCode/tree/master/2333-minimum-sum-of-squared-difference) |
 | [2438-range-product-queries-of-powers](https://github.com/indrajeetmandal00/LeetCode/tree/master/2438-range-product-queries-of-powers) |
 | [2439-minimize-maximum-of-array](https://github.com/indrajeetmandal00/LeetCode/tree/master/2439-minimize-maximum-of-array) |
 | [2452-words-within-two-edits-of-dictionary](https://github.com/indrajeetmandal00/LeetCode/tree/master/2452-words-within-two-edits-of-dictionary) |
@@ -368,6 +369,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/indrajeetmandal00/LeetCode/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/indrajeetmandal00/LeetCode/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [1855-maximum-distance-between-a-pair-of-values](https://github.com/indrajeetmandal00/LeetCode/tree/master/1855-maximum-distance-between-a-pair-of-values) |
+| [2333-minimum-sum-of-squared-difference](https://github.com/indrajeetmandal00/LeetCode/tree/master/2333-minimum-sum-of-squared-difference) |
 | [2439-minimize-maximum-of-array](https://github.com/indrajeetmandal00/LeetCode/tree/master/2439-minimize-maximum-of-array) |
 | [2540-minimum-common-value](https://github.com/indrajeetmandal00/LeetCode/tree/master/2540-minimum-common-value) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/indrajeetmandal00/LeetCode/tree/master/2812-find-the-safest-path-in-a-grid) |
@@ -443,6 +445,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/indrajeetmandal00/LeetCode/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1878-get-biggest-three-rhombus-sums-in-a-grid](https://github.com/indrajeetmandal00/LeetCode/tree/master/1878-get-biggest-three-rhombus-sums-in-a-grid) |
 | [1882-process-tasks-using-servers](https://github.com/indrajeetmandal00/LeetCode/tree/master/1882-process-tasks-using-servers) |
+| [2333-minimum-sum-of-squared-difference](https://github.com/indrajeetmandal00/LeetCode/tree/master/2333-minimum-sum-of-squared-difference) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/indrajeetmandal00/LeetCode/tree/master/2812-find-the-safest-path-in-a-grid) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/indrajeetmandal00/LeetCode/tree/master/3286-find-a-safe-walk-through-a-grid) |
 | [3296-minimum-number-of-seconds-to-make-mountain-height-zero](https://github.com/indrajeetmandal00/LeetCode/tree/master/3296-minimum-number-of-seconds-to-make-mountain-height-zero) |
@@ -514,6 +517,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/indrajeetmandal00/LeetCode/tree/master/2091-removing-minimum-and-maximum-from-array) |
 | [2126-destroying-asteroids](https://github.com/indrajeetmandal00/LeetCode/tree/master/2126-destroying-asteroids) |
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/indrajeetmandal00/LeetCode/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
+| [2333-minimum-sum-of-squared-difference](https://github.com/indrajeetmandal00/LeetCode/tree/master/2333-minimum-sum-of-squared-difference) |
 | [2439-minimize-maximum-of-array](https://github.com/indrajeetmandal00/LeetCode/tree/master/2439-minimize-maximum-of-array) |
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/indrajeetmandal00/LeetCode/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
 | [2573-find-the-string-with-lcp](https://github.com/indrajeetmandal00/LeetCode/tree/master/2573-find-the-string-with-lcp) |
@@ -563,6 +567,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2094-finding-3-digit-even-numbers](https://github.com/indrajeetmandal00/LeetCode/tree/master/2094-finding-3-digit-even-numbers) |
 | [2126-destroying-asteroids](https://github.com/indrajeetmandal00/LeetCode/tree/master/2126-destroying-asteroids) |
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/indrajeetmandal00/LeetCode/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
+| [2333-minimum-sum-of-squared-difference](https://github.com/indrajeetmandal00/LeetCode/tree/master/2333-minimum-sum-of-squared-difference) |
 | [2463-minimum-total-distance-traveled](https://github.com/indrajeetmandal00/LeetCode/tree/master/2463-minimum-total-distance-traveled) |
 | [2706-buy-two-chocolates](https://github.com/indrajeetmandal00/LeetCode/tree/master/2706-buy-two-chocolates) |
 | [2747-count-zero-request-servers](https://github.com/indrajeetmandal00/LeetCode/tree/master/2747-count-zero-request-servers) |
