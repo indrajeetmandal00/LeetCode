@@ -106,6 +106,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2060-check-if-an-original-string-exists-given-two-encoded-strings](https://github.com/indrajeetmandal00/LeetCode/tree/master/2060-check-if-an-original-string-exists-given-two-encoded-strings) |
 | [2075-decode-the-slanted-ciphertext](https://github.com/indrajeetmandal00/LeetCode/tree/master/2075-decode-the-slanted-ciphertext) |
 | [2213-longest-substring-of-one-repeating-character](https://github.com/indrajeetmandal00/LeetCode/tree/master/2213-longest-substring-of-one-repeating-character) |
+| [2409-count-days-spent-together](https://github.com/indrajeetmandal00/LeetCode/tree/master/2409-count-days-spent-together) |
 | [2437-number-of-valid-clock-times](https://github.com/indrajeetmandal00/LeetCode/tree/master/2437-number-of-valid-clock-times) |
 | [2452-words-within-two-edits-of-dictionary](https://github.com/indrajeetmandal00/LeetCode/tree/master/2452-words-within-two-edits-of-dictionary) |
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/indrajeetmandal00/LeetCode/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
@@ -769,6 +770,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1979-find-greatest-common-divisor-of-array](https://github.com/indrajeetmandal00/LeetCode/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2033-minimum-operations-to-make-a-uni-value-grid](https://github.com/indrajeetmandal00/LeetCode/tree/master/2033-minimum-operations-to-make-a-uni-value-grid) |
 | [2400-number-of-ways-to-reach-a-position-after-exactly-k-steps](https://github.com/indrajeetmandal00/LeetCode/tree/master/2400-number-of-ways-to-reach-a-position-after-exactly-k-steps) |
+| [2409-count-days-spent-together](https://github.com/indrajeetmandal00/LeetCode/tree/master/2409-count-days-spent-together) |
 | [2946-matrix-similarity-after-cyclic-shifts](https://github.com/indrajeetmandal00/LeetCode/tree/master/2946-matrix-similarity-after-cyclic-shifts) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/indrajeetmandal00/LeetCode/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/indrajeetmandal00/LeetCode/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
