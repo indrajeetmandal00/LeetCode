@@ -231,6 +231,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1534-count-good-triplets](https://github.com/indrajeetmandal00/LeetCode/tree/master/1534-count-good-triplets) |
 | [1536-minimum-swaps-to-arrange-a-binary-grid](https://github.com/indrajeetmandal00/LeetCode/tree/master/1536-minimum-swaps-to-arrange-a-binary-grid) |
 | [1559-detect-cycles-in-2d-grid](https://github.com/indrajeetmandal00/LeetCode/tree/master/1559-detect-cycles-in-2d-grid) |
+| [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/indrajeetmandal00/LeetCode/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 | [1582-special-positions-in-a-binary-matrix](https://github.com/indrajeetmandal00/LeetCode/tree/master/1582-special-positions-in-a-binary-matrix) |
 | [1594-maximum-non-negative-product-in-a-matrix](https://github.com/indrajeetmandal00/LeetCode/tree/master/1594-maximum-non-negative-product-in-a-matrix) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/indrajeetmandal00/LeetCode/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
@@ -442,6 +443,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1319-number-of-operations-to-make-network-connected](https://github.com/indrajeetmandal00/LeetCode/tree/master/1319-number-of-operations-to-make-network-connected) |
 | [1391-check-if-there-is-a-valid-path-in-a-grid](https://github.com/indrajeetmandal00/LeetCode/tree/master/1391-check-if-there-is-a-valid-path-in-a-grid) |
 | [1559-detect-cycles-in-2d-grid](https://github.com/indrajeetmandal00/LeetCode/tree/master/1559-detect-cycles-in-2d-grid) |
+| [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/indrajeetmandal00/LeetCode/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 | [1722-minimize-hamming-distance-after-swap-operations](https://github.com/indrajeetmandal00/LeetCode/tree/master/1722-minimize-hamming-distance-after-swap-operations) |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/indrajeetmandal00/LeetCode/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
 | [2573-find-the-string-with-lcp](https://github.com/indrajeetmandal00/LeetCode/tree/master/2573-find-the-string-with-lcp) |
@@ -644,6 +646,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1406-stone-game-iii](https://github.com/indrajeetmandal00/LeetCode/tree/master/1406-stone-game-iii) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/indrajeetmandal00/LeetCode/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [1524-number-of-sub-arrays-with-odd-sum](https://github.com/indrajeetmandal00/LeetCode/tree/master/1524-number-of-sub-arrays-with-odd-sum) |
+| [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/indrajeetmandal00/LeetCode/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 | [1594-maximum-non-negative-product-in-a-matrix](https://github.com/indrajeetmandal00/LeetCode/tree/master/1594-maximum-non-negative-product-in-a-matrix) |
 | [1735-count-ways-to-make-array-with-product](https://github.com/indrajeetmandal00/LeetCode/tree/master/1735-count-ways-to-make-array-with-product) |
 | [1871-jump-game-vii](https://github.com/indrajeetmandal00/LeetCode/tree/master/1871-jump-game-vii) |
@@ -786,6 +789,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1344-angle-between-hands-of-a-clock](https://github.com/indrajeetmandal00/LeetCode/tree/master/1344-angle-between-hands-of-a-clock) |
 | [1406-stone-game-iii](https://github.com/indrajeetmandal00/LeetCode/tree/master/1406-stone-game-iii) |
 | [1524-number-of-sub-arrays-with-odd-sum](https://github.com/indrajeetmandal00/LeetCode/tree/master/1524-number-of-sub-arrays-with-odd-sum) |
+| [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/indrajeetmandal00/LeetCode/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 | [1622-fancy-sequence](https://github.com/indrajeetmandal00/LeetCode/tree/master/1622-fancy-sequence) |
 | [1735-count-ways-to-make-array-with-product](https://github.com/indrajeetmandal00/LeetCode/tree/master/1735-count-ways-to-make-array-with-product) |
 | [1840-maximum-building-height](https://github.com/indrajeetmandal00/LeetCode/tree/master/1840-maximum-building-height) |
@@ -839,6 +843,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/indrajeetmandal00/LeetCode/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/indrajeetmandal00/LeetCode/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [0761-special-binary-string](https://github.com/indrajeetmandal00/LeetCode/tree/master/0761-special-binary-string) |
+| [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/indrajeetmandal00/LeetCode/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 | [3653-xor-after-range-multiplication-queries-i](https://github.com/indrajeetmandal00/LeetCode/tree/master/3653-xor-after-range-multiplication-queries-i) |
 | [3655-xor-after-range-multiplication-queries-ii](https://github.com/indrajeetmandal00/LeetCode/tree/master/3655-xor-after-range-multiplication-queries-ii) |
 | [3721-longest-balanced-subarray-ii](https://github.com/indrajeetmandal00/LeetCode/tree/master/3721-longest-balanced-subarray-ii) |
@@ -1001,6 +1006,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0863-all-nodes-distance-k-in-binary-tree](https://github.com/indrajeetmandal00/LeetCode/tree/master/0863-all-nodes-distance-k-in-binary-tree) |
 | [0865-smallest-subtree-with-all-the-deepest-nodes](https://github.com/indrajeetmandal00/LeetCode/tree/master/0865-smallest-subtree-with-all-the-deepest-nodes) |
 | [1038-binary-search-tree-to-greater-sum-tree](https://github.com/indrajeetmandal00/LeetCode/tree/master/1038-binary-search-tree-to-greater-sum-tree) |
+| [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/indrajeetmandal00/LeetCode/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 | [2196-create-binary-tree-from-descriptions](https://github.com/indrajeetmandal00/LeetCode/tree/master/2196-create-binary-tree-from-descriptions) |
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/indrajeetmandal00/LeetCode/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
 | [3558-number-of-ways-to-assign-edge-weights-i](https://github.com/indrajeetmandal00/LeetCode/tree/master/3558-number-of-ways-to-assign-edge-weights-i) |
@@ -1060,6 +1066,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0230-kth-smallest-element-in-a-bst](https://github.com/indrajeetmandal00/LeetCode/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0783-minimum-distance-between-bst-nodes](https://github.com/indrajeetmandal00/LeetCode/tree/master/0783-minimum-distance-between-bst-nodes) |
 | [1038-binary-search-tree-to-greater-sum-tree](https://github.com/indrajeetmandal00/LeetCode/tree/master/1038-binary-search-tree-to-greater-sum-tree) |
+| [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/indrajeetmandal00/LeetCode/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 ## Binary Tree
 |  |
 | ------- |
@@ -1082,6 +1089,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0863-all-nodes-distance-k-in-binary-tree](https://github.com/indrajeetmandal00/LeetCode/tree/master/0863-all-nodes-distance-k-in-binary-tree) |
 | [0865-smallest-subtree-with-all-the-deepest-nodes](https://github.com/indrajeetmandal00/LeetCode/tree/master/0865-smallest-subtree-with-all-the-deepest-nodes) |
 | [1038-binary-search-tree-to-greater-sum-tree](https://github.com/indrajeetmandal00/LeetCode/tree/master/1038-binary-search-tree-to-greater-sum-tree) |
+| [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/indrajeetmandal00/LeetCode/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 | [2196-create-binary-tree-from-descriptions](https://github.com/indrajeetmandal00/LeetCode/tree/master/2196-create-binary-tree-from-descriptions) |
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/indrajeetmandal00/LeetCode/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
 ## Database
@@ -1154,6 +1162,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0062-unique-paths](https://github.com/indrajeetmandal00/LeetCode/tree/master/0062-unique-paths) |
+| [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/indrajeetmandal00/LeetCode/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 | [1735-count-ways-to-make-array-with-product](https://github.com/indrajeetmandal00/LeetCode/tree/master/1735-count-ways-to-make-array-with-product) |
 | [2400-number-of-ways-to-reach-a-position-after-exactly-k-steps](https://github.com/indrajeetmandal00/LeetCode/tree/master/2400-number-of-ways-to-reach-a-position-after-exactly-k-steps) |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/indrajeetmandal00/LeetCode/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
@@ -1196,6 +1205,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Fermat's Little Theorem
 |  |
 | ------- |
+| [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/indrajeetmandal00/LeetCode/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 | [1622-fancy-sequence](https://github.com/indrajeetmandal00/LeetCode/tree/master/1622-fancy-sequence) |
 | [1735-count-ways-to-make-array-with-product](https://github.com/indrajeetmandal00/LeetCode/tree/master/1735-count-ways-to-make-array-with-product) |
 ## Counting Sort
@@ -1215,6 +1225,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0070-climbing-stairs](https://github.com/indrajeetmandal00/LeetCode/tree/master/0070-climbing-stairs) |
+| [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/indrajeetmandal00/LeetCode/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 ## Quicksort
 |  |
 | ------- |
