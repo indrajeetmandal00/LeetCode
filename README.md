@@ -110,6 +110,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2060-check-if-an-original-string-exists-given-two-encoded-strings](https://github.com/indrajeetmandal00/LeetCode/tree/master/2060-check-if-an-original-string-exists-given-two-encoded-strings) |
 | [2075-decode-the-slanted-ciphertext](https://github.com/indrajeetmandal00/LeetCode/tree/master/2075-decode-the-slanted-ciphertext) |
 | [2213-longest-substring-of-one-repeating-character](https://github.com/indrajeetmandal00/LeetCode/tree/master/2213-longest-substring-of-one-repeating-character) |
+| [2243-calculate-digit-sum-of-a-string](https://github.com/indrajeetmandal00/LeetCode/tree/master/2243-calculate-digit-sum-of-a-string) |
 | [2409-count-days-spent-together](https://github.com/indrajeetmandal00/LeetCode/tree/master/2409-count-days-spent-together) |
 | [2437-number-of-valid-clock-times](https://github.com/indrajeetmandal00/LeetCode/tree/master/2437-number-of-valid-clock-times) |
 | [2452-words-within-two-edits-of-dictionary](https://github.com/indrajeetmandal00/LeetCode/tree/master/2452-words-within-two-edits-of-dictionary) |
@@ -741,6 +742,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2069-walking-robot-simulation-ii](https://github.com/indrajeetmandal00/LeetCode/tree/master/2069-walking-robot-simulation-ii) |
 | [2075-decode-the-slanted-ciphertext](https://github.com/indrajeetmandal00/LeetCode/tree/master/2075-decode-the-slanted-ciphertext) |
 | [2161-partition-array-according-to-given-pivot](https://github.com/indrajeetmandal00/LeetCode/tree/master/2161-partition-array-according-to-given-pivot) |
+| [2243-calculate-digit-sum-of-a-string](https://github.com/indrajeetmandal00/LeetCode/tree/master/2243-calculate-digit-sum-of-a-string) |
 | [2553-separate-the-digits-in-an-array](https://github.com/indrajeetmandal00/LeetCode/tree/master/2553-separate-the-digits-in-an-array) |
 | [2751-robot-collisions](https://github.com/indrajeetmandal00/LeetCode/tree/master/2751-robot-collisions) |
 | [2946-matrix-similarity-after-cyclic-shifts](https://github.com/indrajeetmandal00/LeetCode/tree/master/2946-matrix-similarity-after-cyclic-shifts) |
